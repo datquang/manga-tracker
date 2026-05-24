@@ -8,7 +8,7 @@ if GEMINI_API_KEY:
 else:
     model = None
 
-def analyze_manga_info(title, author, publisher):
+def analyze_manga_info(title, author, publisher, partner="", translator=""):
     """
     Sử dụng Gemini để xác định xem sách có phải là Manga và lấy tên gốc.
     Trả về định dạng JSON:
@@ -28,6 +28,8 @@ def analyze_manga_info(title, author, publisher):
     Tôi có một tựa sách đăng ký xuất bản tại Việt Nam:
     - Tên sách: {title}
     - Tác giả: {author}
+    - Dịch giả: {translator}
+    - Đối tác liên kết (Công ty phát hành): {partner}
     - Nhà xuất bản: {publisher}
     
     Hãy phân tích kỹ xem tựa sách này có phải là TRUYỆN TRANH (manga, manhwa, manhua, comic, graphic novel) hay không.
@@ -35,6 +37,7 @@ def analyze_manga_info(title, author, publisher):
     LƯU Ý QUAN TRỌNG:
     - Nếu tựa sách này là TIỂU THUYẾT (Novel), LIGHT NOVEL (Truyện chữ có minh họa), SÁCH CHỮ, SÁCH THƠ, SÁCH KỸ NĂNG, TỰ LỰC (Self-help), hoặc các loại SÁCH CHỮ THÔNG THƯỜNG khác, bạn BẮT BUỘC phải đặt "is_manga" là false.
     - Chỉ đặt "is_manga" là true nếu đây CHẮC CHẮN là một tác phẩm TRUYỆN TRANH (comic/manga/manhwa/manhua). Ví dụ: "Chú Thuật Hồi Chiến", "Thám Tử Lừng Danh Conan", v.v. là truyện tranh (is_manga: true). Còn các tác phẩm như tiểu thuyết "Romain Kalbris", tiểu thuyết light novel "Overlord", sách chữ "Thời gian và tôi đều đang tiến về phía trước" là truyện chữ (is_manga: false).
+    - Tên sách có thể đã dịch sang tiếng Việt (ví dụ: "Mỹ vị hầm ngục" chính là manga "Dungeon Meshi", "Chú Thuật Hồi Chiến" chính là "Jujutsu Kaisen"). Hãy sử dụng kiến thức rộng lớn của bạn và đối chiếu với tên Tác giả (ví dụ: Kui Ryoko, Gege Akutami) và Đối tác phát hành (ví dụ: IPM, Kim Đồng, Trẻ) để nhận diện chính xác.
     
     Hãy trả về CHỈ MỘT chuỗi JSON hợp lệ với cấu trúc sau (không có code block ```json):
     {{

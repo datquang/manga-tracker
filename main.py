@@ -75,7 +75,13 @@ def process_books():
             print(f"Đang phân tích sách mới: {book['title']}...")
             
             # 1. Gọi AI để phân tích
-            ai_info = analyze_manga_info(book['title'], book['author'], book['publisher'])
+            ai_info = analyze_manga_info(
+                book['title'], 
+                book['author'], 
+                book['publisher'], 
+                book['partner'], 
+                book['translator']
+            )
             time.sleep(1.5)  # Tránh rate limit của Gemini
             
             if ai_info.get("is_manga"):
