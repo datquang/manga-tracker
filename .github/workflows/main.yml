@@ -31,6 +31,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          python -c "import os; print('GEMINI_API_KEY is configured:', bool(os.environ.get('GEMINI_API_KEY')))"
           python main.py
 
       - name: Commit Database Changes
