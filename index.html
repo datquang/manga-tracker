@@ -132,7 +132,6 @@
         <div class="grid">
             
             <div class="card" onclick='openModal({"anilist_url": "#", "author": "Hector Malot", "cover_url": "https://via.placeholder.com/150x220?text=No+Cover", "current_volume_vi": "", "original_title": "Cu\u1ed9c phi\u00eau l\u01b0u c\u1ee7a Romain Kalbris", "publisher": "NXB Ph\u1ee5 N\u1eef", "registration_number": "1931-2026/CXBIPH/68-41/PN", "status_original": "UNKNOWN", "synopsis": "", "title_vi": "Cu\u1ed9c phi\u00eau l\u01b0u c\u1ee7a Romain Kalbris", "total_volumes": "Kh\u00f4ng r\u00f5"})'>
-                <img src="https://via.placeholder.com/150x220?text=No+Cover" alt="Cover" class="card-img" onerror="this.src='https://via.placeholder.com/150x220?text=No+Cover'">
                 <div class="card-content">
                     <h3 class="card-title">Cuộc phiêu lưu của Romain Kalbris</h3>
                     <p class="card-meta">Tác giả: Hector Malot</p>
@@ -142,7 +141,6 @@
             </div>
             
             <div class="card" onclick='openModal({"anilist_url": "#", "author": "Phan Qu\u1ed1c D\u0169ng", "cover_url": "https://via.placeholder.com/150x220?text=No+Cover", "current_volume_vi": "", "original_title": "Th\u1eddi gian v\u00e0 t\u00f4i \u0111\u1ec1u \u0111ang ti\u1ebfn v\u1ec1 ph\u00eda tr\u01b0\u1edbc - \u6211\u548c\u65f6\u95f4\u90fd\u5728\u5411\u524d\u8d70", "publisher": "NXB Ph\u1ee5 N\u1eef", "registration_number": "1931-2026/CXBIPH/67-41/PN", "status_original": "UNKNOWN", "synopsis": "", "title_vi": "Th\u1eddi gian v\u00e0 t\u00f4i \u0111\u1ec1u \u0111ang ti\u1ebfn v\u1ec1 ph\u00eda tr\u01b0\u1edbc - \u6211\u548c\u65f6\u95f4\u90fd\u5728\u5411\u524d\u8d70", "total_volumes": "Kh\u00f4ng r\u00f5"})'>
-                <img src="https://via.placeholder.com/150x220?text=No+Cover" alt="Cover" class="card-img" onerror="this.src='https://via.placeholder.com/150x220?text=No+Cover'">
                 <div class="card-content">
                     <h3 class="card-title">Thời gian và tôi đều đang tiến về phía trước - 我和时间都在向前走</h3>
                     <p class="card-meta">Tác giả: Phan Quốc Dũng</p>
@@ -160,7 +158,6 @@
         <div class="modal-content" onclick="event.stopPropagation()">
             <span class="close-btn" onclick="document.getElementById('mangaModal').style.display='none'">&times;</span>
             <div class="modal-header">
-                <img id="mCover" src="" alt="Cover">
                 <div>
                     <h2 id="mTitleVi" style="margin-top:0;"></h2>
                     <p><strong>Tên gốc:</strong> <span id="mOriginal"></span></p>
@@ -197,7 +194,6 @@
             document.getElementById('mVolTotal').innerText = book.total_volumes + ' tập';
             document.getElementById('mStatus').innerText = book.status_original;
             document.getElementById('mSynopsis').innerText = book.synopsis || 'Chưa có thông tin giới thiệu.';
-            document.getElementById('mCover').src = book.cover_url;
             document.getElementById('mLink').href = book.anilist_url;
             
             document.getElementById('mangaModal').style.display = 'flex';

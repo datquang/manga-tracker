@@ -8,7 +8,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 import json
 import os
 import time
-from scraper import fetch_publication_data
+from scraper import fetch_publication_data_for_page
 from ai_helper import analyze_manga_info
 from anilist_api import search_anilist
 from config import DATA_FILE, OUTPUT_HTML
@@ -16,9 +16,6 @@ from jinja2 import Environment, FileSystemLoader
 
 def process_books():
     print("Bắt đầu lấy dữ liệu từ website...")
-    # Lấy 20 trang để quét được lượng truyện tranh lớn hơn
-    raw_books = fetch_publication_data(pages=20)
-    print(f"Lấy được {len(raw_books)} sách từ các NXB truyện tranh.")
     
     # Đọc dữ liệu cũ để tránh gọi lại API cho sách đã xử lý
     existing_data = []
@@ -33,52 +30,68 @@ def process_books():
     existing_reg_nums = {b['registration_number'] for b in existing_data}
     
     new_manga_list = []
+    page = 1
+    max_pages = 30  # Quét tối đa 30 trang (300 đầu sách)
+    stop_scraping = False
     
-    for book in raw_books:
-        reg_num = book['registration_number']
-        if reg_num in existing_reg_nums:
-            continue
-            
-        print(f"Đang phân tích sách mới: {book['title']}...")
+    while page <= max_pages and not stop_scraping:
+        print(f"Đang cào dữ liệu trang {page}...")
+        books_on_page = fetch_publication_data_for_page(page)
         
-        # 1. Gọi AI để phân tích
-        ai_info = analyze_manga_info(book['title'], book['author'], book['publisher'])
-        
-        # Tạm nghỉ 1.5 giây để tránh chạm ngưỡng giới hạn (rate limit) của API Gemini
-        time.sleep(1.5)
-        
-        if ai_info.get("is_manga"):
-            original_title = ai_info.get("original_title", book['title'])
+        if not books_on_page:
+            print(f"Không có dữ liệu ở trang {page} hoặc gặp lỗi. Dừng.")
+            break
             
-            # 2. Gọi AniList API
-            anilist_info = search_anilist(original_title)
-            # Nghỉ 0.5 giây đối với API AniList
-            time.sleep(0.5)
+        new_books_on_page = []
+        for book in books_on_page:
+            reg_num = book['registration_number']
+            if reg_num in existing_reg_nums:
+                # Phát hiện sách đã có trong DB -> Dừng cào các trang sau vì dữ liệu cũ hơn đã được cào từ trước
+                print(f"Phát hiện sách đã trùng: {book['title']} ({reg_num}). Dừng quét các trang sâu hơn.")
+                stop_scraping = True
+                break
+            new_books_on_page.append(book)
             
-            # 3. Gộp dữ liệu
-            manga_entry = {
-                "title_vi": book['title'],
-                "author": book['author'],
-                "publisher": book['publisher'],
-                "registration_number": reg_num,
-                "original_title": original_title,
-                "synopsis": ai_info.get("synopsis", ""),
-                "current_volume_vi": ai_info.get("current_volume", ""),
-                "cover_url": anilist_info["cover_url"] if anilist_info else "https://via.placeholder.com/150x220?text=No+Cover",
-                "total_volumes": anilist_info["total_volumes"] if anilist_info else "Không rõ",
-                "status_original": anilist_info["status"] if anilist_info else "UNKNOWN",
-                "anilist_url": anilist_info["anilist_url"] if anilist_info else "#"
-            }
-            new_manga_list.append(manga_entry)
-            print(f"[+] Đã thêm Manga: {book['title']}")
-        else:
-            print(f"[-] Không phải Manga: {book['title']}")
-            # Vẫn đánh dấu là đã xử lý (để ko check lại) nhưng không đưa vào giao diện (hoặc có thể bỏ qua lưu tùy logic)
-            pass
+        # Xử lý các sách mới tìm thấy trên trang này
+        for book in new_books_on_page:
+            print(f"Đang phân tích sách mới: {book['title']}...")
             
-        # Tạm lưu số đăng ký để không quét lại lần sau (thực tế nên lưu cả sách không phải manga vào 1 list discard)
-        existing_reg_nums.add(reg_num)
-        existing_data.append({**book, "is_manga": ai_info.get("is_manga", False)})
+            # 1. Gọi AI để phân tích
+            ai_info = analyze_manga_info(book['title'], book['author'], book['publisher'])
+            time.sleep(1.5)  # Tránh rate limit của Gemini
+            
+            if ai_info.get("is_manga"):
+                original_title = ai_info.get("original_title", book['title'])
+                
+                # 2. Gọi AniList API
+                anilist_info = search_anilist(original_title)
+                time.sleep(0.5)  # Tránh rate limit của AniList
+                
+                manga_entry = {
+                    "title_vi": book['title'],
+                    "author": book['author'],
+                    "publisher": book['publisher'],
+                    "registration_number": book['registration_number'],
+                    "original_title": original_title,
+                    "synopsis": ai_info.get("synopsis", ""),
+                    "current_volume_vi": ai_info.get("current_volume", ""),
+                    "cover_url": anilist_info["cover_url"] if anilist_info else "https://via.placeholder.com/150x220?text=No+Cover",
+                    "total_volumes": anilist_info["total_volumes"] if anilist_info else "Không rõ",
+                    "status_original": anilist_info["status"] if anilist_info else "UNKNOWN",
+                    "anilist_url": anilist_info["anilist_url"] if anilist_info else "#"
+                }
+                new_manga_list.append(manga_entry)
+                print(f"[+] Đã thêm Manga: {book['title']}")
+            else:
+                print(f"[-] Không phải Manga: {book['title']}")
+                
+            # Đánh dấu đã xử lý (lưu vào database chung)
+            existing_reg_nums.add(book['registration_number'])
+            existing_data.append({**book, "is_manga": ai_info.get("is_manga", False)})
+            
+        if not stop_scraping:
+            page += 1
+            time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
 
     # Lưu lại DB (JSON)
     if new_manga_list:

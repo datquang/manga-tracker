@@ -134,7 +134,6 @@
         <div class="grid">
             {% for book in books %}
             <div class="card" onclick='openModal({{ book|tojson }})'>
-                <img src="{{ book.cover_url }}" alt="Cover" class="card-img" onerror="this.src='https://via.placeholder.com/150x220?text=No+Cover'">
                 <div class="card-content">
                     <h3 class="card-title">{{ book.title_vi }}</h3>
                     <p class="card-meta">Tác giả: {{ book.author }}</p>
@@ -152,7 +151,6 @@
         <div class="modal-content" onclick="event.stopPropagation()">
             <span class="close-btn" onclick="document.getElementById('mangaModal').style.display='none'">&times;</span>
             <div class="modal-header">
-                <img id="mCover" src="" alt="Cover">
                 <div>
                     <h2 id="mTitleVi" style="margin-top:0;"></h2>
                     <p><strong>Tên gốc:</strong> <span id="mOriginal"></span></p>
@@ -189,7 +187,6 @@
             document.getElementById('mVolTotal').innerText = book.total_volumes + ' tập';
             document.getElementById('mStatus').innerText = book.status_original;
             document.getElementById('mSynopsis').innerText = book.synopsis || 'Chưa có thông tin giới thiệu.';
-            document.getElementById('mCover').src = book.cover_url;
             document.getElementById('mLink').href = book.anilist_url;
             
             document.getElementById('mangaModal').style.display = 'flex';
