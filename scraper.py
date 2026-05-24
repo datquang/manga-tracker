@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import time
 from config import TARGET_URL
 
 # Mã NXB ở cuối số đăng ký xuất bản thường liên quan đến truyện tranh
@@ -52,6 +53,8 @@ def fetch_publication_data(pages=5):
             url = TARGET_URL
         else:
             url = TARGET_URL + f"&_cxbhnportlet_cur={page + 1}"
+            # Nghỉ 1 giây từ trang thứ 2 để không spam server
+            time.sleep(1)
 
         print(f"Đang tải trang {page + 1}...")
         try:

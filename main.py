@@ -7,6 +7,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 
 import json
 import os
+import time
 from scraper import fetch_publication_data
 from ai_helper import analyze_manga_info
 from anilist_api import search_anilist
@@ -15,8 +16,8 @@ from jinja2 import Environment, FileSystemLoader
 
 def process_books():
     print("Bắt đầu lấy dữ liệu từ website...")
-    # Lấy 1 trang (bạn có thể tăng số trang nếu muốn)
-    raw_books = fetch_publication_data(pages=1)
+    # Lấy 20 trang để quét được lượng truyện tranh lớn hơn
+    raw_books = fetch_publication_data(pages=20)
     print(f"Lấy được {len(raw_books)} sách từ các NXB truyện tranh.")
     
     # Đọc dữ liệu cũ để tránh gọi lại API cho sách đã xử lý
@@ -43,11 +44,16 @@ def process_books():
         # 1. Gọi AI để phân tích
         ai_info = analyze_manga_info(book['title'], book['author'], book['publisher'])
         
+        # Tạm nghỉ 1.5 giây để tránh chạm ngưỡng giới hạn (rate limit) của API Gemini
+        time.sleep(1.5)
+        
         if ai_info.get("is_manga"):
             original_title = ai_info.get("original_title", book['title'])
             
             # 2. Gọi AniList API
             anilist_info = search_anilist(original_title)
+            # Nghỉ 0.5 giây đối với API AniList
+            time.sleep(0.5)
             
             # 3. Gộp dữ liệu
             manga_entry = {
