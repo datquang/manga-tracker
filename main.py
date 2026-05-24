@@ -8,7 +8,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 import json
 import os
 import time
-from scraper import fetch_publication_data_for_page
+from scraper import fetch_publication_data_for_page, MANGA_NXB_CODES, MANGA_PARTNERS
 from ai_helper import analyze_manga_info
 from anilist_api import search_anilist
 from config import DATA_FILE, OUTPUT_HTML
@@ -31,10 +31,10 @@ def process_books():
     
     new_manga_list = []
     page = 1
-    max_pages = 30  # Quét tối đa 30 trang (300 đầu sách)
-    stop_scraping = False
+    max_pages = 50  # Quét tối đa 50 trang để đảm bảo có thể quét sâu khi cần
+    new_pages_scanned = 0
     
-    while page <= max_pages and not stop_scraping:
+    while page <= max_pages:
         print(f"Đang cào dữ liệu trang {page}...")
         books_on_page = fetch_publication_data_for_page(page)
         
@@ -42,18 +42,36 @@ def process_books():
             print(f"Không có dữ liệu ở trang {page} hoặc gặp lỗi. Dừng.")
             break
             
-        new_books_on_page = []
-        for book in books_on_page:
-            reg_num = book['registration_number']
-            if reg_num in existing_reg_nums:
-                # Phát hiện sách đã có trong DB -> Dừng cào các trang sau vì dữ liệu cũ hơn đã được cào từ trước
-                print(f"Phát hiện sách đã trùng: {book['title']} ({reg_num}). Dừng quét các trang sâu hơn.")
-                stop_scraping = True
+        # Lọc ra những sách mới chưa có trong cơ sở dữ liệu
+        new_books_on_page = [b for b in books_on_page if b['registration_number'] not in existing_reg_nums]
+        
+        if new_books_on_page:
+            new_pages_scanned += 1
+            print(f"Trang {page} có {len(new_books_on_page)} sách mới.")
+        else:
+            print(f"Trang {page} không chứa sách mới nào.")
+            
+        # Kiểm tra điều kiện dừng (nếu trang này không có sách mới)
+        if not new_books_on_page:
+            # Nếu chưa quét đủ ít nhất 20 trang chứa sách mới, ta tiếp tục quét sâu hơn
+            if new_pages_scanned >= 20:
+                print(f"Phát hiện trang trùng hoàn toàn và đã quét đủ {new_pages_scanned} trang có sách mới. Dừng quét.")
                 break
-            new_books_on_page.append(book)
+            else:
+                print(f"Trang trùng hoàn toàn nhưng chưa quét đủ 20 trang có sách mới (hiện mới quét được {new_pages_scanned} trang). Tiếp tục quét sâu...")
             
         # Xử lý các sách mới tìm thấy trên trang này
         for book in new_books_on_page:
+            # Lọc sơ bộ bằng lọc cứng (nhà xuất bản hoặc đối tác liên quan đến manga)
+            is_manga_nxb = book['nxb_code'] in MANGA_NXB_CODES
+            is_manga_partner = any(p.lower() in book['partner'].lower() for p in MANGA_PARTNERS)
+            
+            if not (is_manga_nxb or is_manga_partner):
+                # Không thỏa mãn lọc cứng -> Đánh dấu không phải manga và bỏ qua (không gọi AI/AniList)
+                existing_reg_nums.add(book['registration_number'])
+                existing_data.append({**book, "is_manga": False})
+                continue
+                
             print(f"Đang phân tích sách mới: {book['title']}...")
             
             # 1. Gọi AI để phân tích
@@ -89,10 +107,9 @@ def process_books():
             existing_reg_nums.add(book['registration_number'])
             existing_data.append({**book, "is_manga": ai_info.get("is_manga", False)})
             
-        if not stop_scraping:
-            page += 1
-            time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
-
+        page += 1
+        time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
+ 
     # Lưu lại DB (JSON)
     if new_manga_list:
         with open("manga_db.json", 'a', encoding='utf-8') as f:
@@ -103,6 +120,55 @@ def process_books():
         json.dump(existing_data, f, ensure_ascii=False, indent=2)
         
     return new_manga_list
+
+def clean_and_sync_databases():
+    """
+    Dọn dẹp manga_db.json:
+    - Loại bỏ bất kỳ truyện nào bị đánh dấu 'is_manga': False trong data.json.
+    - Loại bỏ các dòng bị trùng lặp registration_number.
+    Ghi đè lại manga_db.json với dữ liệu sạch.
+    """
+    print("Đang đồng bộ và dọn dẹp cơ sở dữ liệu manga_db.json...")
+    
+    # 1. Đọc data.json để biết những sách nào có is_manga == False
+    non_manga_reg_nums = set()
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, 'r', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+                for b in data:
+                    if b.get("is_manga") is False:
+                        non_manga_reg_nums.add(b.get("registration_number"))
+            except Exception as e:
+                print(f"Lỗi đọc data.json khi dọn dẹp: {e}")
+                
+    # 2. Đọc manga_db.json và lọc
+    cleaned_manga = []
+    seen_reg_nums = set()
+    
+    if os.path.exists("manga_db.json"):
+        with open("manga_db.json", 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    try:
+                        m = json.loads(line)
+                        reg_num = m.get("registration_number")
+                        if reg_num in non_manga_reg_nums:
+                            print(f"[-] Loại bỏ sách chữ khỏi manga_db.json: {m.get('title_vi')} ({reg_num})")
+                            continue
+                        if reg_num in seen_reg_nums:
+                            continue
+                        seen_reg_nums.add(reg_num)
+                        cleaned_manga.append(m)
+                    except Exception:
+                        pass
+                        
+    # 3. Ghi đè lại manga_db.json sạch sẽ
+    with open("manga_db.json", 'w', encoding='utf-8') as f:
+        for m in cleaned_manga:
+            f.write(json.dumps(m, ensure_ascii=False) + "\n")
+            
+    print(f"Đã hoàn thành dọn dẹp. Còn lại {len(cleaned_manga)} Manga hợp lệ.")
 
 def generate_html():
     """Đọc từ manga_db.json và sinh ra HTML tĩnh"""
@@ -129,7 +195,8 @@ def generate_html():
     with open(OUTPUT_HTML, 'w', encoding='utf-8') as f:
         f.write(output)
     print(f"Đã tạo giao diện tại {OUTPUT_HTML}")
-
+ 
 if __name__ == "__main__":
     process_books()
+    clean_and_sync_databases()
     generate_html()

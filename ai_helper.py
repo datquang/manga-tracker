@@ -4,7 +4,7 @@ from config import GEMINI_API_KEY
 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
 else:
     model = None
 
@@ -24,16 +24,22 @@ def analyze_manga_info(title, author, publisher):
         return {"is_manga": True, "original_title": title, "synopsis": "", "current_volume": ""}
         
     prompt = f"""
-    Bạn là một chuyên gia về truyện tranh (Manga/Manhwa/Manhua).
-    Tôi có một tựa sách sắp xuất bản tại Việt Nam:
+    Bạn là một chuyên gia phân loại sách và truyện tranh (Manga/Manhwa/Manhua/Comic).
+    Tôi có một tựa sách đăng ký xuất bản tại Việt Nam:
     - Tên sách: {title}
     - Tác giả: {author}
     - Nhà xuất bản: {publisher}
     
-    Hãy phân tích và trả về CHỈ MỘT chuỗi JSON hợp lệ với cấu trúc sau (không có code block ```json):
+    Hãy phân tích kỹ xem tựa sách này có phải là TRUYỆN TRANH (manga, manhwa, manhua, comic, graphic novel) hay không.
+    
+    LƯU Ý QUAN TRỌNG:
+    - Nếu tựa sách này là TIỂU THUYẾT (Novel), LIGHT NOVEL (Truyện chữ có minh họa), SÁCH CHỮ, SÁCH THƠ, SÁCH KỸ NĂNG, TỰ LỰC (Self-help), hoặc các loại SÁCH CHỮ THÔNG THƯỜNG khác, bạn BẮT BUỘC phải đặt "is_manga" là false.
+    - Chỉ đặt "is_manga" là true nếu đây CHẮC CHẮN là một tác phẩm TRUYỆN TRANH (comic/manga/manhwa/manhua). Ví dụ: "Chú Thuật Hồi Chiến", "Thám Tử Lừng Danh Conan", v.v. là truyện tranh (is_manga: true). Còn các tác phẩm như tiểu thuyết "Romain Kalbris", tiểu thuyết light novel "Overlord", sách chữ "Thời gian và tôi đều đang tiến về phía trước" là truyện chữ (is_manga: false).
+    
+    Hãy trả về CHỈ MỘT chuỗi JSON hợp lệ với cấu trúc sau (không có code block ```json):
     {{
-        "is_manga": (true/false) đây có phải là truyện tranh (manga/manhwa/manhua/comic) không?,
-        "original_title": "Tên phổ biến tiếng Anh hoặc Romaji của truyện này để tiện tìm kiếm trên Anilist. Nếu không biết, trả về tên gốc.",
+        "is_manga": (true hoặc false),
+        "original_title": "Tên phổ biến tiếng Anh hoặc Romaji của truyện này để tiện tìm kiếm trên AniList. Nếu không biết, trả về tên gốc.",
         "synopsis": "Tóm tắt nội dung cực kỳ ngắn gọn (2-3 câu bằng tiếng Việt).",
         "current_volume": "Trích xuất số tập (volume) từ 'Tên sách' (VD: 'Tập 5'). Nếu không có số tập, để chuỗi rỗng."
     }}

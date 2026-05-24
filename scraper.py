@@ -64,20 +64,15 @@ def fetch_publication_data_for_page(page_num):
             nxb_code = reg_num.split("/")[-1].strip() if reg_num else ""
             publisher = NXB_NAMES.get(nxb_code, f"NXB {nxb_code}" if nxb_code else "Không rõ")
 
-            is_manga_nxb     = nxb_code in MANGA_NXB_CODES
-            is_manga_partner = any(p.lower() in partner.lower() for p in MANGA_PARTNERS)
-
-            # Lọc sơ bộ để lấy các sách liên quan đến truyện tranh
-            if is_manga_nxb or is_manga_partner:
-                books.append({
-                    "title":               book_name,
-                    "author":              author,
-                    "translator":          translator,
-                    "partner":             partner,
-                    "nxb_code":            nxb_code,
-                    "publisher":           publisher,
-                    "registration_number": reg_num,
-                })
+            books.append({
+                "title":               book_name,
+                "author":              author,
+                "translator":          translator,
+                "partner":             partner,
+                "nxb_code":            nxb_code,
+                "publisher":           publisher,
+                "registration_number": reg_num,
+            })
 
         return books
 
