@@ -33,7 +33,7 @@ def fetch_publication_data_for_page(page_num):
     """
     url = TARGET_URL
     if page_num > 1:
-        url = TARGET_URL + f"&_cxbhnportlet_cur={page_num}"
+        url = TARGET_URL + f"&p={page_num}"
 
     try:
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)

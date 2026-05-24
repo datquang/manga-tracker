@@ -31,7 +31,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python -c "from ai_helper import analyze_manga_info; print('AI Test Result:', analyze_manga_info('Cuộc phiêu lưu của Romain Kalbris', 'Hector Malot', 'NXB Phụ Nữ'))"
+          python -c "import google.generativeai as genai; import os; genai.configure(api_key=os.environ['GEMINI_API_KEY']); print('Available Models:', [m.name for m in genai.list_models()][:15])"
           python main.py
 
       - name: Commit Database Changes
