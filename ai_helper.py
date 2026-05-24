@@ -1,5 +1,6 @@
 import google.generativeai as genai
 import json
+import time
 from config import GEMINI_API_KEY
 
 if GEMINI_API_KEY:
