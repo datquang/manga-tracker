@@ -33,9 +33,17 @@ def search_anilist(title):
     }
     
     url = 'https://graphql.anilist.co'
+    headers = {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
     
     try:
-        response = requests.post(url, json={'query': query, 'variables': variables})
+        response = requests.post(url, json={'query': query, 'variables': variables}, headers=headers)
+        if response.status_code == 404:
+            # Không tìm thấy thông tin trên AniList (ví dụ sách không phải manga)
+            return None
         response.raise_for_status()
         data = response.json()
         

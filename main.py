@@ -1,3 +1,10 @@
+import sys
+import io
+
+# Cấu hình UTF-8 cho console để tránh lỗi mã hóa chữ Tiếng Việt
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 import json
 import os
 from scraper import fetch_publication_data
@@ -71,7 +78,7 @@ def process_books():
     if new_manga_list:
         with open("manga_db.json", 'a', encoding='utf-8') as f:
             for m in new_manga_list:
-                f.write(json.dumps(m, ensure_ascii=False) + "\\n")
+                f.write(json.dumps(m, ensure_ascii=False) + "\n")
                 
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(existing_data, f, ensure_ascii=False, indent=2)

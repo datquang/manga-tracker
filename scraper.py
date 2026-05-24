@@ -6,6 +6,21 @@ from config import TARGET_URL
 # Ví dụ: "1931-2026/CXBIPH/68-41/KD" -> /KD là NXB Kim Đồng
 MANGA_NXB_CODES = ["KD", "TRE", "DHSP"]
 
+NXB_NAMES = {
+    "KD": "NXB Kim Đồng",
+    "TRE": "NXB Trẻ",
+    "DHSP": "NXB Đại học Sư phạm",
+    "PN": "NXB Phụ Nữ",
+    "HN": "NXB Hà Nội",
+    "TG": "NXB Thế Giới",
+    "HNV": "NXB Hội Nhà Văn",
+    "DT": "NXB Dân Trí",
+    "ĐN": "NXB Đồng Nai",
+    "LD": "NXB Lao Động",
+    "HD": "NXB Hồng Đức",
+    "GD": "NXB Giáo Dục",
+}
+
 # Tên công ty đối tác liên kết thường phát hành truyện tranh (cột 7)
 MANGA_PARTNERS = [
     "IPM", "Amak", "Sakura", "Thái Hà", "Đinh Tị", "Skybooks",
@@ -76,12 +91,14 @@ def fetch_publication_data(pages=5):
                 is_manga_partner = any(p.lower() in partner.lower() for p in MANGA_PARTNERS)
 
                 if is_manga_nxb or is_manga_partner:
+                    publisher = NXB_NAMES.get(nxb_code, f"NXB {nxb_code}" if nxb_code else "Không rõ")
                     all_books.append({
                         "title":               book_name,
                         "author":              author,
                         "translator":          translator,
                         "partner":             partner,
                         "nxb_code":            nxb_code,
+                        "publisher":           publisher,
                         "registration_number": reg_num,
                     })
                     page_count += 1
