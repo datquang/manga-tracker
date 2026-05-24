@@ -47,18 +47,30 @@ def analyze_manga_info(title, author, publisher, partner="", translator=""):
         "current_volume": "Trích xuất số tập (volume) từ 'Tên sách' (VD: 'Tập 5'). Nếu không có số tập, để chuỗi rỗng."
     }}
     """
-    try:
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        if text.startswith('```json'):
-            text = text[7:]
-        if text.endswith('```'):
-            text = text[:-3]
-        
-        return json.loads(text.strip())
-    except Exception as e:
-        print(f"Lỗi khi gọi Gemini API: {e}")
-        return {"is_manga": False, "original_title": "", "synopsis": "", "current_volume": ""}
+    max_retries = 3
+    retry_delay = 60
+    
+    for attempt in range(max_retries):
+        try:
+            response = model.generate_content(prompt)
+            text = response.text.strip()
+            if text.startswith('```json'):
+                text = text[7:]
+            if text.endswith('```'):
+                text = text[:-3]
+            
+            return json.loads(text.strip())
+        except Exception as e:
+            err_msg = str(e).lower()
+            if "429" in err_msg or "exhausted" in err_msg or "quota" in err_msg:
+                print(f"Cảnh báo: Đạt giới hạn rate limit (429). Thử lại sau {retry_delay} giây... (Lần thử {attempt + 1}/{max_retries})")
+                time.sleep(retry_delay)
+            else:
+                print(f"Lỗi khi gọi Gemini API (Lần thử {attempt + 1}/{max_retries}): {e}")
+                if attempt < max_retries - 1:
+                    time.sleep(5)
+                else:
+                    raise e
 
 if __name__ == "__main__":
     # Test thử

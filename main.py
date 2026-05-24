@@ -75,14 +75,19 @@ def process_books():
             print(f"Đang phân tích sách mới: {book['title']}...")
             
             # 1. Gọi AI để phân tích
-            ai_info = analyze_manga_info(
-                book['title'], 
-                book['author'], 
-                book['publisher'], 
-                book['partner'], 
-                book['translator']
-            )
-            time.sleep(1.5)  # Tránh rate limit của Gemini
+            try:
+                ai_info = analyze_manga_info(
+                    book['title'], 
+                    book['author'], 
+                    book['publisher'], 
+                    book['partner'], 
+                    book['translator']
+                )
+                time.sleep(4.5)  # Tránh rate limit của Gemini (sleep 4.5s để đảm bảo < 15 RPM)
+            except Exception as e:
+                print(f"Thất bại hoàn toàn khi phân tích sách '{book['title']}' qua AI: {e}")
+                print("Bỏ qua sách này (sẽ quét lại trong lần chạy sau).")
+                continue
             
             if ai_info.get("is_manga"):
                 original_title = ai_info.get("original_title", book['title'])
