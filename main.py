@@ -34,48 +34,48 @@ def process_books():
     max_pages = 50  # Quét tối đa 50 trang để đảm bảo có thể quét sâu khi cần
     new_pages_scanned = 0
     
-    while page <= max_pages:
-        print(f"Đang cào dữ liệu trang {page}...")
-        books_on_page = fetch_publication_data_for_page(page)
-        
-        if not books_on_page:
-            print(f"Không có dữ liệu ở trang {page} hoặc gặp lỗi. Dừng.")
-            break
+    try:
+        while page <= max_pages:
+            print(f"Đang cào dữ liệu trang {page}...")
+            books_on_page = fetch_publication_data_for_page(page)
             
-        # Lọc ra những sách mới chưa có trong cơ sở dữ liệu
-        new_books_on_page = [b for b in books_on_page if b['registration_number'] not in existing_reg_nums]
-        
-        if new_books_on_page:
-            new_pages_scanned += 1
-            print(f"Trang {page} có {len(new_books_on_page)} sách mới.")
-        else:
-            print(f"Trang {page} không chứa sách mới nào.")
-            
-        # Kiểm tra điều kiện dừng (nếu trang này không có sách mới)
-        if not new_books_on_page:
-            # Nếu chưa quét đủ ít nhất 20 trang chứa sách mới, ta tiếp tục quét sâu hơn
-            if new_pages_scanned >= 20:
-                print(f"Phát hiện trang trùng hoàn toàn và đã quét đủ {new_pages_scanned} trang có sách mới. Dừng quét.")
+            if not books_on_page:
+                print(f"Không có dữ liệu ở trang {page} hoặc gặp lỗi. Dừng.")
                 break
-            else:
-                print(f"Trang trùng hoàn toàn nhưng chưa quét đủ 20 trang có sách mới (hiện mới quét được {new_pages_scanned} trang). Tiếp tục quét sâu...")
-            
-        # Xử lý các sách mới tìm thấy trên trang này
-        for book in new_books_on_page:
-            # Lọc sơ bộ bằng lọc cứng (nhà xuất bản hoặc đối tác liên quan đến manga)
-            is_manga_nxb = book['nxb_code'] in MANGA_NXB_CODES
-            is_manga_partner = any(p.lower() in book['partner'].lower() for p in MANGA_PARTNERS)
-            
-            if not (is_manga_nxb or is_manga_partner):
-                # Không thỏa mãn lọc cứng -> Đánh dấu không phải manga và bỏ qua (không gọi AI/AniList)
-                existing_reg_nums.add(book['registration_number'])
-                existing_data.append({**book, "is_manga": False})
-                continue
                 
-            print(f"Đang phân tích sách mới: {book['title']}...")
+            # Lọc ra những sách mới chưa có trong cơ sở dữ liệu
+            new_books_on_page = [b for b in books_on_page if b['registration_number'] not in existing_reg_nums]
             
-            # 1. Gọi AI để phân tích
-            try:
+            if new_books_on_page:
+                new_pages_scanned += 1
+                print(f"Trang {page} có {len(new_books_on_page)} sách mới.")
+            else:
+                print(f"Trang {page} không chứa sách mới nào.")
+                
+            # Kiểm tra điều kiện dừng (nếu trang này không có sách mới)
+            if not new_books_on_page:
+                # Nếu chưa quét đủ ít nhất 20 trang chứa sách mới, ta tiếp tục quét sâu hơn
+                if new_pages_scanned >= 20:
+                    print(f"Phát hiện trang trùng hoàn toàn và đã quét đủ {new_pages_scanned} trang có sách mới. Dừng quét.")
+                    break
+                else:
+                    print(f"Trang trùng hoàn toàn nhưng chưa quét đủ 20 trang có sách mới (hiện mới quét được {new_pages_scanned} trang). Tiếp tục quét sâu...")
+                
+            # Xử lý các sách mới tìm thấy trên trang này
+            for book in new_books_on_page:
+                # Lọc sơ bộ bằng lọc cứng (nhà xuất bản hoặc đối tác liên quan đến manga)
+                is_manga_nxb = book['nxb_code'] in MANGA_NXB_CODES
+                is_manga_partner = any(p.lower() in book['partner'].lower() for p in MANGA_PARTNERS)
+                
+                if not (is_manga_nxb or is_manga_partner):
+                    # Không thỏa mãn lọc cứng -> Đánh dấu không phải manga và bỏ qua (không gọi AI/AniList)
+                    existing_reg_nums.add(book['registration_number'])
+                    existing_data.append({**book, "is_manga": False})
+                    continue
+                    
+                print(f"Đang phân tích sách mới: {book['title']}...")
+                
+                # 1. Gọi AI để phân tích
                 ai_info = analyze_manga_info(
                     book['title'], 
                     book['author'], 
@@ -84,42 +84,41 @@ def process_books():
                     book['translator']
                 )
                 time.sleep(4.5)  # Tránh rate limit của Gemini (sleep 4.5s để đảm bảo < 15 RPM)
-            except Exception as e:
-                print(f"Thất bại hoàn toàn khi phân tích sách '{book['title']}' qua AI: {e}")
-                print("Bỏ qua sách này (sẽ quét lại trong lần chạy sau).")
-                continue
-            
-            if ai_info and ai_info.get("is_manga"):
-                original_title = ai_info.get("original_title", book['title'])
                 
-                # 2. Gọi AniList API
-                anilist_info = search_anilist(original_title)
-                time.sleep(0.5)  # Tránh rate limit của AniList
+                if ai_info and ai_info.get("is_manga"):
+                    original_title = ai_info.get("original_title", book['title'])
+                    
+                    # 2. Gọi AniList API
+                    anilist_info = search_anilist(original_title)
+                    time.sleep(0.5)  # Tránh rate limit của AniList
+                    
+                    manga_entry = {
+                        "title_vi": book['title'],
+                        "author": book['author'],
+                        "publisher": book['publisher'],
+                        "registration_number": book['registration_number'],
+                        "original_title": original_title,
+                        "synopsis": ai_info.get("synopsis", ""),
+                        "current_volume_vi": ai_info.get("current_volume", ""),
+                        "cover_url": anilist_info["cover_url"] if anilist_info else "https://via.placeholder.com/150x220?text=No+Cover",
+                        "total_volumes": anilist_info["total_volumes"] if anilist_info else "Không rõ",
+                        "status_original": anilist_info["status"] if anilist_info else "UNKNOWN",
+                        "anilist_url": anilist_info["anilist_url"] if anilist_info else "#"
+                    }
+                    new_manga_list.append(manga_entry)
+                    print(f"[+] Đã thêm Manga: {book['title']}")
+                else:
+                    print(f"[-] Không phải Manga: {book['title']}")
+                    
+                # Đánh dấu đã xử lý (lưu vào database chung)
+                existing_reg_nums.add(book['registration_number'])
+                existing_data.append({**book, "is_manga": ai_info.get("is_manga", False) if ai_info else False})
                 
-                manga_entry = {
-                    "title_vi": book['title'],
-                    "author": book['author'],
-                    "publisher": book['publisher'],
-                    "registration_number": book['registration_number'],
-                    "original_title": original_title,
-                    "synopsis": ai_info.get("synopsis", ""),
-                    "current_volume_vi": ai_info.get("current_volume", ""),
-                    "cover_url": anilist_info["cover_url"] if anilist_info else "https://via.placeholder.com/150x220?text=No+Cover",
-                    "total_volumes": anilist_info["total_volumes"] if anilist_info else "Không rõ",
-                    "status_original": anilist_info["status"] if anilist_info else "UNKNOWN",
-                    "anilist_url": anilist_info["anilist_url"] if anilist_info else "#"
-                }
-                new_manga_list.append(manga_entry)
-                print(f"[+] Đã thêm Manga: {book['title']}")
-            else:
-                print(f"[-] Không phải Manga: {book['title']}")
-                
-            # Đánh dấu đã xử lý (lưu vào database chung)
-            existing_reg_nums.add(book['registration_number'])
-            existing_data.append({**book, "is_manga": ai_info.get("is_manga", False) if ai_info else False})
-            
-        page += 1
-        time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
+            page += 1
+            time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
+    except Exception as e:
+        print(f"\n[!] Cảnh báo: Dừng quét sớm do gặp lỗi hệ thống hoặc quá tải API: {e}")
+        print("[!] Tiến hành lưu lại dữ liệu các đầu truyện đã xử lý thành công trước đó...")
  
     # Lưu lại DB (JSON)
     if new_manga_list:
