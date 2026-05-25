@@ -65,7 +65,10 @@ def analyze_manga_info(title, author, publisher, partner="", translator=""):
             err_msg = str(e).lower()
             if "429" in err_msg or "exhausted" in err_msg or "quota" in err_msg:
                 print(f"Cảnh báo: Đạt giới hạn rate limit (429). Thử lại sau {retry_delay} giây... (Lần thử {attempt + 1}/{max_retries})")
-                time.sleep(retry_delay)
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+                else:
+                    raise e
             else:
                 print(f"Lỗi khi gọi Gemini API (Lần thử {attempt + 1}/{max_retries}): {e}")
                 if attempt < max_retries - 1:

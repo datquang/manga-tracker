@@ -89,7 +89,7 @@ def process_books():
                 print("Bỏ qua sách này (sẽ quét lại trong lần chạy sau).")
                 continue
             
-            if ai_info.get("is_manga"):
+            if ai_info and ai_info.get("is_manga"):
                 original_title = ai_info.get("original_title", book['title'])
                 
                 # 2. Gọi AniList API
@@ -116,7 +116,7 @@ def process_books():
                 
             # Đánh dấu đã xử lý (lưu vào database chung)
             existing_reg_nums.add(book['registration_number'])
-            existing_data.append({**book, "is_manga": ai_info.get("is_manga", False)})
+            existing_data.append({**book, "is_manga": ai_info.get("is_manga", False) if ai_info else False})
             
         page += 1
         time.sleep(1.0)  # Giãn cách 1 giây trước khi tải trang tiếp theo
