@@ -2,7 +2,7 @@ name: Manga Scraper Daily
 
 on:
   schedule:
-    - cron: '0 5 * * *' # Chạy vào 5:00 UTC (12:00 trưa VN) mỗi ngày
+    - cron: '23 5 * * *' # Chạy vào 5:23 UTC (12:23 trưa VN) mỗi ngày (tránh phút 00 để giảm thiểu delay của GitHub)
   workflow_dispatch: # Cho phép bấm chạy thủ công
 
 jobs:
