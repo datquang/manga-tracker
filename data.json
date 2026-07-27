@@ -33188,5 +33188,2915 @@
     "publisher": "NXB Hà Nội",
     "registration_number": "2794-2026/CXBIPH/19-224/HN",
     "is_manga": false
+  },
+  {
+    "title": "Tiên công khai vật - Tập 1",
+    "author": "Cổ Chân Nhân",
+    "translator": "Trần Minh Phương",
+    "partner": "Công ty Cổ phần Văn hoá và Truyền thông VER Địa chỉ: Số 9D, Hẻm 193/30/2, Phố Cầu Cốc, TDP Hạnh, Phường Tây Mỗ, Thành Phố Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/51-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tuổi Thơ Lắm Chuyện Buồn Cười",
+    "author": "Jang Kều",
+    "translator": "",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/50-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Chuyện Trà - Lịch Sử Một Thức Uống Lâu Đời Của Người Việt",
+    "author": "Trần Quang Đức",
+    "translator": "",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/49-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hoàng Đế Xứ Gladness",
+    "author": "Ocean Vuong",
+    "translator": "Trần Khánh Nguyên",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/48-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Thay Đổi Cách Nghĩ - A New Way To Think",
+    "author": "Roger L. Martin",
+    "translator": "Trịnh Hoàng Kim Phượng",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/47-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Coach - Khởi Nghiệp Độc Lập Bằng Kỹ Năng Khai Vấn",
+    "author": "Trần Tiến Công",
+    "translator": "",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/46-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Đông Chu Liệt Quốc - Tập 3",
+    "author": "Phùng Mộng Long",
+    "translator": "Nguyễn Đỗ Mục",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/45-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Debt - Nợ - Sợi Xích Vô Hình 5000 Năm",
+    "author": "David Graeber",
+    "translator": "Lê Hồng Phương Hạ",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/44-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Ánh Sáng Trắng",
+    "author": "Jon Fosse",
+    "translator": "Thiên Nga",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/43-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Kết Nối Sao Để Thấy Ta Là Nhau",
+    "author": "Thích Nhất Hạnh",
+    "translator": "Chân Thao Nghiêm",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/42-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tính Chuyên Chế Của Chế Độ Nhân Tài: Lợi ích chung sẽ ra sao?",
+    "author": "Michael J. Sandel",
+    "translator": "Nhiều dịch giả",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/41-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Dám Lãnh Đạo",
+    "author": "Brené Brown",
+    "translator": "Khổng Mai Lan",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/40-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Sự Thật Về Trí Nhớ - Mở Khóa Sức Mạnh Ký Ức Để Tối Ưu Việc Ghi Nhớ",
+    "author": "Charan Ranganath",
+    "translator": "Phạm Hoa Phượng",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/39-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Phương pháp Kaizen",
+    "author": "Robert Maurer",
+    "translator": "Huỳnh Ngọc Sơn Minh",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/38-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Thuyết Mặc Kệ Họ",
+    "author": "Mel Robbins",
+    "translator": "Rô Man",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/37-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Sài Gòn Bao Thương",
+    "author": "Vũ Kim Hạnh",
+    "translator": "",
+    "partner": "Công ty Cổ phần Fonos. Địa chỉ: 119 Mỹ Kim 2-H25, Phường Tân Hưng, Thành Phố Hồ Chí Minh, Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/36-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tiểu Nha Hoàn Phú Quý ******",
+    "author": "Hoa Thanh Tuyết",
+    "translator": "Nhóm dịch Thiên Thư Các",
+    "partner": "Công ty Cổ Phần Top Talent (Tầng 1, số 68 đường số 11, Khu dân cư Cityland Park Hills, Phường Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/35-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tiểu Nha Hoàn Phú Quý *****",
+    "author": "Hoa Thanh Tuyết",
+    "translator": "Nhóm dịch Thiên Thư Các",
+    "partner": "Công ty Cổ Phần Top Talent (Tầng 1, số 68 đường số 11, Khu dân cư Cityland Park Hills, Phường Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/34-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện về chú thỏ xấu tính hung dữ",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/33-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 8",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/32-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 7",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/31-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 6",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/30-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Peter và Wendy",
+    "author": "JM Barrie",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/29-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Ba chú gấu",
+    "author": "W. W. Denslow",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/28-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Quả trứng Humpty Dumpty",
+    "author": "W. W. Denslow",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/27-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cuốn sách về thiên nhiên học Tập 4",
+    "author": "David Starr Jordan",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/26-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cuốn sách về thiên nhiên học Tập 3",
+    "author": "David Starr Jordan",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/25-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cuốn sách về thiên nhiên học Tập 2",
+    "author": "David Starr Jordan",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/24-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cuốn sách về thiên nhiên học Tập 1",
+    "author": "David Starr Jordan",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/23-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Wagner: Câu chuyện về cậu bé viết những vở kịch nhỏ",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/22-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 5",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/21-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 4",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/20-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Alice ở xứ sở thần tiên",
+    "author": "Lewis Carroll",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/19-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện về chú Lợn Robinson",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/18-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Schumann: Câu chuyện về cậu bé vẽ những bức tranh bằng âm nhạc",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/17-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Chopin: Câu chuyện về cậu bé sáng tác những giai điệu tuyệt đẹp",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/16-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Verdi: Câu chuyện về cậu bé yêu thích đàn organ cầm tay",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/15-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Johann Sebastian Bach: Câu chuyện về cậu bé hát rong trên đường phố",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/14-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Franz Liszt: Câu chuyện về cậu bé trở thành nghệ sĩ piano và người thầy vĩ đại",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/13-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Mozart: Câu chuyện về cậu bé và người chị gái đi biểu diễn hòa nhạc",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/12-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Franz Joseph Haydn: Câu chuyện về cậu bé hát hợp xướng trở thành nhà soạn nhạc vĩ đại",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/11-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Handel: Câu chuyện về cậu bé tập đàn trên gác mái",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/10-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Edvard Grieg: Câu chuyện về cậu bé làm nhạc ở xứ sở mặt trời mọc lúc nửa đêm",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/9-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 3",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/8-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Những vần thơ đồng dao của Cecily Parsley",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/7-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện về chú Chuột phố Johnny",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/6-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 2",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/5-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Beethoven: Câu chuyện về cậu bé bị ép buộc luyện đàn",
+    "author": "Thomas Tapper",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/4-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện về chiếc bánh nướng và cái khuôn nhỏ",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/3-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện của những bức tranh Tập 1",
+    "author": "Flora L. Carpenter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/2-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Câu chuyện về chú lợn con Pigling Bland",
+    "author": "Beatrix Potter",
+    "translator": "The Goats",
+    "partner": "Công ty Cổ phần Văn hóa & Bản quyền Benito, số 10, ngách 43/5 Nguyễn Ngọc Nại, phường Phương Liệt, TP. Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2854-2026/CXBIPH/1-89/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Take note khoa học tự nhiên Lý - Hóa - Sinh 6",
+    "author": "ThS. Đào Thị Hoàng Ly",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/41-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tập đánh vần tiếng anh - Effortless English Bí quyết đánh vần - Phát âm như người bản xứ Nền tảng nghe - nói - đọc Phonics theo tiêu chuẩn quốc tế",
+    "author": "Jackie Nguyễn",
+    "translator": "",
+    "partner": "Công ty TNHH In Thương mại Tuấn Việt. Số 4 dãy B khu nhà ở Mai Dịch, phường Phú Diễn, thành phố Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/40-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Xứ Đông Dương (Hồi ký) - (\"Tôi đọc cuốn sách này, say mê như đọc một cuốn tiểu thuyết.\" - Nhà văn, dịch giả Nguyễn Xuân Khánh) (logo 10 năm Omega+)",
+    "author": "Paul Doumer (Toàn quyền Đông Dương, (1897-1902);Tổng thống Pháp (1931-1932))",
+    "translator": "Lưu Đình Tuân, Hiệu Constant, Lê Đình Chi, Hoàng Long, Vũ Thúy (dịch); Nguyễn Thừa Hỷ, Nguyễn Việt Long (hiệu đính)",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/39-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Đất nước Việt Nam qua các đời (logo 10 năm Omega+)",
+    "author": "Đào Duy Anh",
+    "translator": "",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/38-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cộng hòa (logo 10 năm Omega+)",
+    "author": "Plato",
+    "translator": "Đỗ Khánh Hoan",
+    "partner": "Công ty Cổ phần Sách Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/37-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hồi ức, Giấc mơ, Suy ngẫm (logo 10 năm Omega+)",
+    "author": "Carl Gustav Jung (Aniela Jaffé thực hiện phần ghi âm)",
+    "translator": "Vũ Hoàng Linh",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/36-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Đạo Đức Kinh - 道德經 (Hán - Việt - Anh) (logo 10 năm Omega+)",
+    "author": "Lão Tử",
+    "translator": "Vũ Thế Ngọc",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/35-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Súng, vi trùng và thép - (Định mệnh của các xã hội loài người); (Tác phẩm đoạt giải thưởng Pulitzer) (Tác phẩm đoạt giải A Sách quốc gia 2021) (logo 10 năm Omega+)",
+    "author": "Jared Diamond",
+    "translator": "Trần Tiễn Cao Đăng",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/34-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Kỹ năng giao tiếp ứng xử văn hóa - Chìa khóa thành công",
+    "author": "TS. Đỗ Trần Phương;TS. Nguyễn Thị Thanh Mai;ThS. Lê An Na",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/33-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cowork Claude - Khai phá sức mạnh khủng khiếp của AI-Agnet (Hướng dẫn cấu hình và ứng dụng thực chiến Cowork-Agent Claude vào công việc và kinh doanh)",
+    "author": "Hồ Đức Dũng",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/32-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình lập trình hướng đối tượng",
+    "author": "Trường Đại học Phú Yên - Khoa khoa học tự nhiên - công nghệ thông tin: TS. Võ Thị Hồng Loan, ThS. Phan Thị Thanh Thủy, ThS. Hồ Thị Duyên",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/31-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Miền thơ trong tiếng đời",
+    "author": "Vương Sỹ Thanh Chương",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/30-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Đêm thức cùng quê hương",
+    "author": "Vương Sỹ Thanh Chương",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/29-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Trung Quốc 247 - Mái nhà thân thuộc",
+    "author": "Nguyễn Việt Dũng",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/28-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Trung Quốc 247 - Góc nhìn bỡ ngỡ",
+    "author": "Nguyễn Việt Dũng",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/27-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Khéo ăn nói sẽ có được thiên hạ Phong cách Dale Carnegie",
+    "author": "Jackie Nguyen",
+    "translator": "",
+    "partner": "Công ty TNHH In TM Tuấn Việt - Số 4, dãy B, Khu nhà ở Mai Dịch, phường phú Diễn, Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/26-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Thơ Mỹ và thế giới một thời đáng nhớ - American Poetry And World A Memorable Time",
+    "author": "Nhiều tác giả",
+    "translator": "Khế Iêm (dịch)",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/25-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tranh chấp lao động và đình công",
+    "author": "Vương Vĩnh Hiệp",
+    "translator": "",
+    "partner": "Công ty TNHH 2 thành viên Tinh Văn Việt Nam: Địa chỉ: Số 05-NV1, Khu đô thị Bắc Quốc lộ 32, Thị trấn Trạm Trôi, Huyện Hoài Đức, Thành phố Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/24-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Lí giải tổng trì",
+    "author": "Lê Văn Thanh (Hòa thượng Thích Giác Sự)",
+    "translator": "",
+    "partner": "Lê Văn Thanh (Hòa thượng Thích Giác Sự)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/23-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Vasi Manufacturing Insights Connecting Vietnam's Mannufacturing Network (Issue 3)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Hiệp hội Công nghiệp Hỗ trợ Việt Nam (VASI)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/22-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Vasi Manufacturing Insights Connecting Vietnam's Mannufacturing Network (Issue 2)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Hiệp hội Công nghiệp Hỗ trợ Việt Nam (VASI)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/21-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang toán 35+ Toán TSA - quyển 3",
+    "author": "LA'B",
+    "translator": "",
+    "partner": "Công ty Cổ phần In và truyền thông Tway",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/20-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang toán 35+ Toán TSA - quyển 2",
+    "author": "LA'B",
+    "translator": "",
+    "partner": "Công ty Cổ phần In và truyền thông Tway",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/19-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Ha Noi Korean News (tập 113)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Công ty TNHH Quảng cáo và Truyền thông Lạc Đà.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/18-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Bùi gia thi phẩm",
+    "author": "Bùi An Chai",
+    "translator": "",
+    "partner": "Bùi An Chai",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/17-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Ha Noi Korean News (tập 112)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Công ty TNHH Quảng cáo và Truyền thông Lạc Đà.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/16-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "SCIC 20 năm (2020 - 2026)",
+    "author": "Tổng Công Ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước (SCIC)",
+    "translator": "",
+    "partner": "Tổng Công Ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước (SCIC)",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/15-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Song ngữ đầu đời cho bé - Ở ngoài trời (Với hàng trăm từ vựng từ cơ bản đến nâng cao) (Tủ sách Cùng con trưởng thành)",
+    "author": "Lời và thiết kế: Sarah Lock;Minh họa: Jennifer Bartlett",
+    "translator": "Nguyên Đăng",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/14-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Song ngữ đầu đời cho bé - Thế giới quanh em (Với hàng trăm từ vựng từ cơ bản đến nâng cao) (Tủ sách Cùng con trưởng thành)",
+    "author": "Lời và thiết kế: Sarah Lock;Minh họa: Jennifer Bartlett",
+    "translator": "Nguyên Đăng",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/13-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Song ngữ đầu đời cho bé - Phương tiện giao thông (Với hàng trăm từ vựng từ cơ bản đến nâng cao) (Tủ sách Cùng con trưởng thành)",
+    "author": "Lời và thiết kế: Sarah Lock;Minh họa: Jennifer Bartlett",
+    "translator": "Nguyên Đăng",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/12-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Song ngữ đầu đời cho bé - Động vật (Với hàng trăm từ vựng từ cơ bản đến nâng cao) (Tủ sách Cùng con trưởng thành)",
+    "author": "Lời và thiết kế: Sarah Lock;Minh họa: Jennifer Bartlett",
+    "translator": "Nguyên Đăng",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/11-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Truyện cổ tích Việt Nam đặc sắc có minh họa ** (Song ngữ Việt - Anh) (Tủ sách Người kể chuyện)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/10-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Truyện cổ tích Việt Nam đặc sắc có minh họa * (Song ngữ Việt - Anh) (Tủ sách Người kể chuyện)",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/9-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hàng ngàn ý tưởng vui vẻ - Ngày đi chơi xa (Tủ sách Sáng tạo)",
+    "author": "Nhiều tác giả",
+    "translator": "Matryoshka",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/8-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hàng ngàn ý tưởng vui vẻ - Ngày bạn nhỏ làm họa sĩ (Tủ sách Sáng tạo)",
+    "author": "Nhiều tác giả",
+    "translator": "Matryoshka",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/7-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hàng ngàn ý tưởng vui vẻ - Ngày hóa thân làm điệp viên nhí (Tủ sách Sáng tạo)",
+    "author": "Nhiều tác giả",
+    "translator": "Matryoshka",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/6-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Hàng ngàn ý tưởng vui vẻ - Vào ngày mưa (Tủ sách Sáng tạo)",
+    "author": "Nhiều tác giả",
+    "translator": "Matryoshka",
+    "partner": "Công ty TNHH TM & DV Văn hoá Đinh Tị. ĐC: Số 23 ngõ 104/1, Phố Việt Hưng, Phường Việt Hưng, TP Hà Nội",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/5-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Dấu xưa, thời trẻ bác Hồ 3 lần ở Bình Định Dấu ấn lưu niệm của Bình Định - Gia Lai với bác Hồ",
+    "author": "Trần Đình Định (Sưu tầm, biên soạn)",
+    "translator": "",
+    "partner": "Nhà in Ngân Hàng 2. Địa chỉ: 422 Trần Hưng Đạo, Phường Chợ Quán, TP. Hồ Chí Minh",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/4-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "My English4 class book",
+    "author": "Công ty TNHH Đào Tạo Thaki",
+    "translator": "",
+    "partner": "Công ty TNHH đào tạo Thaki Số 12, ngách 141/17 Ngõ 1194 Đường Láng, P. Láng, Hà Nội.",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/3-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Tủ sách cẩm nang dinh dưỡng Giữ xương chắc - giữ cuộc sống độc lập thực hành dinh dưỡng và vận động phòng ngừa loãng xương và gãy xương",
+    "author": "PGS. TS. Nguyễn Đỗ Huy",
+    "translator": "",
+    "partner": "Nguyễn đỗ huy và công ty TNHH in thương mại Tuấn việt",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/2-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Evon Baby Bé tập nói - con vật ở đâu? Bé học nói dễ dàng Kích thích tư duy Vừa học vừa chơi",
+    "author": "Lê Việt Dũng",
+    "translator": "",
+    "partner": "Công ty TNHH Tuệ Lâm Linh",
+    "nxb_code": "TrT",
+    "publisher": "NXB TrT",
+    "registration_number": "2853-2026/CXBIPH/1-87/TrT",
+    "is_manga": false
+  },
+  {
+    "title": "Như mây đầu núi",
+    "author": "Đinh Quang Lân",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/73-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Trận thủy chiến cửa biển Đại Bàng thời Trần",
+    "author": "Sỹ Chân",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/72-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tổng ôn lý thuyết lịch sử",
+    "author": "Thái Văn Trung",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/71-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến tranh Việt Nam 1945-1975 (Hồ sơ bên kia chiến tuyến) Tập 2- Đông Dương thuộc Pháp (1887-1945)",
+    "author": "Cục Văn thư và Lưu trữ Nhà nước - Trung tâm Lưu trữ Quốc gia II",
+    "translator": "",
+    "partner": "Công ty TNHH Truyền thông và Văn hóa Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/70-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Phiếu bài tập cuối tuần tiếng Việt 4",
+    "author": "Trần Thị Hường",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/69-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyển tập những bài văn mẫu hay 4",
+    "author": "ThS. Cao Thục Uyên",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/68-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyển tập những bài văn mẫu hay 2",
+    "author": "Đào Lan Phương",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/67-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Reverse Coloring Book",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/66-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Fashion Club - Princess Sunny",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/65-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Fashion Club - Princess Sakura",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/64-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Fashion Club - Princess Aki",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/63-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Trace & Color activity book",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/62-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Magical coloring",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/61-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "How to draw animals Easy step-by-step Drawings",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/60-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "My big coloring book - Color and Learn Fun Facts for kids",
+    "author": "Mito Hapi",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/59-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ hỏi bé trả lời 5-6 tuổi (Rèn luyện IQ-EQ-CQ cho bé; Bé thông minh học cùng mẹ)",
+    "author": "Linh Lan",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/58-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ hỏi bé trả lời 4-5 tuổi (Rèn luyện IQ-EQ-CQ cho bé; Bé thông minh học cùng mẹ)",
+    "author": "Linh Lan",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/57-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ hỏi bé trả lời 3-4 tuổi (Rèn luyện IQ-EQ-CQ cho bé; Bé thông minh học cùng mẹ)",
+    "author": "Linh Lan",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/56-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ hỏi bé trả lời 2-3 tuổi (Rèn luyện IQ-EQ-CQ cho bé; Bé thông minh học cùng mẹ)",
+    "author": "Linh Lan",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/55-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ hỏi bé trả lời 1-2 tuổi (Rèn luyện IQ-EQ-CQ cho bé; Bé thông minh học cùng mẹ)",
+    "author": "Linh Lan",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/54-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Science 5",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/53-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Maths 5",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/52-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Science 4",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/51-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Maths 4",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/50-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Science 3",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/49-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Maths 3",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/48-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Science 2",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/47-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Maths 2",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/46-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Science 1",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/45-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Way to Maths 1",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/44-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "WAY TO SUCCESS 5",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/43-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "WAY TO SUCCESS 4",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/42-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "WAY TO SUCCESS 3",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/41-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "WAY TO SUCCESS 2",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/40-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "WAY TO SUCCESS 1",
+    "author": "Công ty Cổ Phần Giáo dục Nhân Văn Đại Việt",
+    "translator": "",
+    "partner": "Công ty TNHH MTV In Báo Nhân dân Tp. Hồ CHí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/39-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Lịch sử chữ quốc ngữ (1615-1919) (logo 10 năm Omega+)",
+    "author": "Phạm Thị Kiều Ly",
+    "translator": "Thanh Thư",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/38-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Chùm nho thịnh nộ",
+    "author": "John Steinbeck",
+    "translator": "Phạm Văn",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/37-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hai chồng",
+    "author": "Hoàng Dự",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/36-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Cuộc đời tôi những năm tháng không quên",
+    "author": "Vũ Minh Đức",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/35-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "100 Lý thuyết giáo dục",
+    "author": "Nguyễn Hồng Chí",
+    "translator": "",
+    "partner": "Trần Thái Sang - Tp. Cần Thơ",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/34-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Gió trúc Yên Tử",
+    "author": "Lê Hoài Nam",
+    "translator": "",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/33-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Chết giữa mùa hè",
+    "author": "Yukio Mishima",
+    "translator": "Nguyễn Nam Trân chủ biên",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/32-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyết xuân",
+    "author": "Yukio Mishima",
+    "translator": "Đỗ Hương Giang",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/31-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "U mộng ảnh",
+    "author": "Trương Triều",
+    "translator": "Châu Hải Đường",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/30-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Phù sinh lục ký",
+    "author": "Thẩm Phục",
+    "translator": "Châu Hải Đường",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/29-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Rời đi khi còn yêu",
+    "author": "Anavira",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/28-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "SAXOHONE BOOK - Saxophone trong tôi - Saxophone in me",
+    "author": "NS Trần Mạnh Tuấn (Trần Đình Hùng)",
+    "translator": "",
+    "partner": "Công ty TNHH MTVSản xuất thương mại dịch vụ giải trí Trần Mạnh Tuấn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/27-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hành trình sống - Tự truyện Trần Mạnh Tuấn",
+    "author": "NS Trần Mạnh Tuấn (Trần Đình Hùng) -Chấp bút: Nguyễn Thị Lam Giang",
+    "translator": "",
+    "partner": "Công ty TNHH MTVSản xuất thương mại dịch vụ giải trí Trần Mạnh Tuấn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/26-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "GHOST ME FREE WIFI /Ở trọ cùng ma Chúng ta đều như những bóng ma đã quên mất mình từng là ai.",
+    "author": "Siphram",
+    "translator": "Minh Quân",
+    "partner": "Công ty cổ phần văn hóa và truyền thông Rubik Việt Nam",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/25-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyển tập truyện cổ tích thế giới - Dành cho thiếu nhi",
+    "author": "Nguyễn Châu Nguyên (tuyển chọn)",
+    "translator": "",
+    "partner": "Công ty TNHH MTV TM&DVVH Minh Long",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/24-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "100 câu chuyện hay dành cho bé gái",
+    "author": "Bành Phàm",
+    "translator": "Thanh Loan",
+    "partner": "Công ty TNHH MTV TM&DVVH Minh Long",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/23-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Văn nghệ Gia Bình",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Nhà báo - NSNA Trần Phan",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/22-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Một trăm lẻ hai lần không thể",
+    "author": "Shun",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam -Thương hiệu Vitalis",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/21-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tô màu dinosaurs - khủng long cổ diềm",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/20-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tô màu dinosaurs - khủng long chân thú",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/19-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tô màu dinosaurs - khủng long chân thằn lằn",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/18-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tô màu dinosaurs - khủng long chân chim",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/17-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tô màu dinosaurs - khủng long bọc giáp",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/16-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Sáng mãi niềm tin",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Ông Nguyễn Nhật Minh - Tp. Hồ Chí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/15-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Trò chơi IQ sáng tạo",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/14-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Thế giới quanh em",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/13-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Số đếm và toán học vui",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/12-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Rau, củ, quả kỳ thú",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/11-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Hình khối diệu kỳ",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/10-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ sách phát triển tư duy sáng tạo và kỹ năng cầm bút: Bé nắn nót: Nét cơ bản nhí nhố",
+    "author": "Lín B biên soạn",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/9-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Đắc nhân tâm giúp trẻ đối nhân xử thế",
+    "author": "Lời: Khánh Phương (Thuần Nhất An minh họa)",
+    "translator": "",
+    "partner": "Công ty Cổ phần Truyền thông và Văn hóa Việt Thư",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/8-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Từ điển Tiếng Việt 120.000 từ ( dành cho học sinh)",
+    "author": "Mai Mai",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa Giang Sơn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/7-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Fashion Blogger – Sàn diễn lung linh của công chúa (Stickers váy và phụ kiện lấp lánh)",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và truyền thông Trí Việt",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/6-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Khi anh cười, hào hoa phong nhã",
+    "author": "Thư Viễn",
+    "translator": "Thu Ngân",
+    "partner": "Công ty TNHH Sách Amun",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/5-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Họ Trịnh - Từ nguồn Việt đến dòng chảy hôm nay",
+    "author": "Bỳ Văn Tứ",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/4-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Lang thang ký",
+    "author": "Quốc Toản",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/3-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Quả chuông ác mộng",
+    "author": "Sylvia Plath",
+    "translator": "Trần Quế Chi",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/2-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Ngày tháng năm",
+    "author": "Diêm Liên Khoa",
+    "translator": "Minh Thương",
+    "partner": "Công ty Cổ phần Sách Tao Đàn",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "2852-2026/CXBIPH/1-115/VH",
+    "is_manga": false
+  },
+  {
+    "title": "VÉN MÀN BÍ MẬT TỰ DO TÀI CHÍNH Tít phụ: Cuốn sách thay đổi cuộc đời bạn",
+    "author": "BẮC ĐẠT TRÍ biên soạn",
+    "translator": "",
+    "partner": "CÔNG TY TNHH PHÁT TRIỂN NỘI DUNG VÀ GIÁO DỤC STARBOOKS",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2851-2026/CXBIPH/3-120/CT",
+    "is_manga": false
+  },
+  {
+    "title": "GIÁO DỤC BẰNG SỰ TỬ TẾ - Giáo dục không nằm ở quy mô trường lớp, mà nằm ở tầm vóc tấm lòng nhà giáo. Dành cho các nhà giáo: Cha mẹ, thầy cô và người yêu giáo dục.",
+    "author": "Thân Thị Thảo",
+    "translator": "",
+    "partner": "Công ty CP Sách Thái Hà",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2851-2026/CXBIPH/2-120/CT",
+    "is_manga": false
+  },
+  {
+    "title": "PHYSICAL AI Tít phụ: • Giải mã Physical AI – bước tiến đưa trí tuệ nhân tạo từ không gian số vào thế giới thực • Từ robot phẫu thuật đến hệ sinh thái IoMT định hình mô hình bệnh viện thông minh • Tối ưu hóa nhà máy không đèn bằng AI Agent điều khiển thế hệ robot tự hành AMR • Cách mạng hóa bán lẻ và logistics bằng hệ thống thị giác máy tính và kho bãi tự trị • Humanoid Robot, Robotaxi và Drone tự hành kiến tạo hạ tầng nền kinh tế thông minh • Làm chủ Chip xử lý NPU, Actuator và công nghệ robot định hình các đế chế tương lai Thông tin khác trên bìa : Tem AI",
+    "author": "Choi Hong-seop, Won Mir",
+    "translator": "Kyoyeon",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Hà Nội",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2851-2026/CXBIPH/1-120/CT",
+    "is_manga": false
+  },
+  {
+    "title": "ÁNH SÁNG TUYẾT SƠN * Calendar 2027 Bao giờ hư không vẫn còn tồn tại, Bao giờ vẫn còn dẫu một chúng sinh, Nguyện rằng tôi còn ở lại đời đời Để chấm dứt khổ đau cho thế giới. _ Đức Đạt Lai Lạt Ma",
+    "author": "Thaihabooks biên soạn",
+    "translator": "",
+    "partner": "Công ty CP Sách Thái Hà",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2850-2026/CXBIPH/1-121/CT",
+    "is_manga": false
+  },
+  {
+    "title": "Luyện viết chữ đẹp 4 - Tập hai",
+    "author": "Đặng Khánh Chi - Trương Thư Trang",
+    "translator": "",
+    "partner": "Công ty TNHH sách giáo dục Hà Nội: Đ/C: Tranh Khúc - Xã Nam Phù - TP. Hà Nội",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/24-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Luyện viết chữ đẹp 4 - Tập một",
+    "author": "Đặng Khánh Chi - Trương Thư Trang",
+    "translator": "",
+    "partner": "Công ty TNHH sách giáo dục Hà Nội: Đ/C: Tranh Khúc - Xã Nam Phù - TP. Hà Nội",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/23-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Công tác kiểm tra, giám sát và kỷ luật của Đảng",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Lê Công Nghĩa (Chủ biên) - TS. Nguyễn Thị Tiếp",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/22-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Phương pháp nghiên cứu trong công tác xã hội",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Lê Thu Hiền (Chủ biên) - TS. Phạm Ngọc Linh",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/21-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tiếng Anh chuyên ngành Tâm lý học - English for Psychology",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Võ Thị Mỹ Hạnh (Chủ biên) - ThS. Nguyễn Thị Quỳnh Trang - ThS. Ngô Thanh Huyền",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/20-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Sức khoẻ tâm thần",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - Lê Thị Thanh Thuỷ - Phạm Ngọc Linh (Đồng chủ biên) - Ngô Anh Vinh - Bùi Phương Thảo - Vũ Văn Thuấn",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/19-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tham vấn trẻ em bị bạo lực",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - Phạm Ngọc Linh - Lê Thị Thanh Thuỷ (Đồng chủ biên) - Đinh Thị Minh Châu",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/18-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tâm lý học truyền thông",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Hoàng Thị Hạnh - TS. Lý Thị Hải Yến (Đồng chủ biên) - TS. Lê Thị Thanh Thủy - ThS. Phan Thị Thảo - ThS. Vũ Thị Hồng Nhung",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/17-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tham vấn cơ bản",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - Phạm Ngọc Linh - Lê Thị Thanh Thủy (Đồng chủ biên) - Hoàng Thị Hạnh - Phan Thị Thảo",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/16-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tham vấn nhóm và tổ chức các hoạt động phòng ngừa",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Lê Thị Thanh Thuỷ - TS. Lưu Thị Lịch (Đồng chủ biên) - ThS. Đào Thị Tỉnh - TS. Nguyễn Thị Chính - TS. Phạm Thị Hồng Phương",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/15-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Đạo đức nghề công tác xã hội",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - Phạm Ngọc Linh (Chủ biên) - Trần Thị Hà - Đào Thị Tỉnh",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/14-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Công tác xã hội với người cao tuổi",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Lê Thu Hiền (Chủ biên) - ThS. Ngô Thu Trà My - ThS. Bùi Phương Thảo",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/13-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Một số ngành luật trong hệ thống pháp luật Việt Nam",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Trần Thị Tuyết Nhung (Chủ biên) - ThS. Nguyễn Thị Mùi - ThS. Đinh Quang Tuyền - TS. Võ Khánh Linh",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/12-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Pháp luật về công chứng, chứng thực",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Phạm Văn Lưỡng (Chủ biên) - TS. Hoàng Minh Tuấn - TS. Hoàng Trung Hiếu (Thành viên) - ThS. Trần Ninh Hà",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/11-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Nghi thức đội TNTP Hồ Chí Minh",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Nguyễn Thứ Mười (Chủ biên) - ThS. Hoàng Thu Hà",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/10-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tiếng Anh chuyên ngành Luật - English for Law",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Võ Thị Mỹ Hạnh (Chủ biên)",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/9-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Kinh tế học",
+    "author": "Trung ương Đoàn thanh niên Cộng sản Hồ Chí Minh - Học viện Thanh thiếu niên Việt Nam - TS. Nguyễn Hải Đăng - TS. Hồ Kim Hương (Đồng chủ biên) - ThS. Mai Thị Vũ Hương - TS. Cấn Thị Thu Hương",
+    "translator": "",
+    "partner": "Học viện Thanh thiếu niên Việt Nam. Địa chỉ: Số 3 Chùa Láng, P. Láng, Hà Nội.",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/8-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Conceptual metaphors based on the human senses in English and Vietnamese",
+    "author": "Tran Thi Thuy Oanh, Ph.D.",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/7-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Tương tác người - máy",
+    "author": "Đại học Quốc gia Hà Nội - Trường Đại học Công nghệ - Ngô Thị Duyên",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/6-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "ベトナムにおける日本語聴解教育に関する研究 ―日本語を専攻とする大学生対象にー",
+    "author": "Đỗ Hoàng Ngân",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/5-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Hướng dẫn trả lời câu hỏi & bài tập Lịch sử - Lớp 6 (Theo chương trình GDPT mới)",
+    "author": "Ths. Tạ Thị Thúy Anh",
+    "translator": "",
+    "partner": "Công ty TNHH Sách văn hóa phẩm Hồng Ân.: 20C Nguyễn Thị Minh Khai, P.Sài Gòn, TP.Hồ Chí Minh",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/4-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Luyện viết chữ đẹp 4 - Tập hai.",
+    "author": "Đặng Khánh Chi - Trương Thư Trang",
+    "translator": "",
+    "partner": "Công ty TNHH sách giáo dục Hà Nội: Đ/C: Tranh Khúc - Xã Nam Phù - TP. Hà Nội",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/3-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Luyện viết chữ đẹp 4 - Tập một",
+    "author": "Đặng Khánh Chi - Trương Thư Trang",
+    "translator": "",
+    "partner": "Công ty TNHH sách giáo dục Hà Nội: Đ/C: Tranh Khúc - Xã Nam Phù - TP. Hà Nội",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/2-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Kế hoạch bài dạy môn Ngữ văn 10 từ năm 2026 - Tập một",
+    "author": "Nguyễn Thị Bích - Nguyễn Thị Hảo - Nguyễn Thị Hương Thuỷ (Đồng chủ biên), Nguyễn Văn Thư - Trần Văn Đức - Nguyễn Hữu Bản - Nguyễn Thanh Huyền - Ngô Quang Thiện",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "ĐHQGHN",
+    "publisher": "NXB ĐHQGHN",
+    "registration_number": "2849-2026/CXBIPH/1-221/ĐHQGHN",
+    "is_manga": false
+  },
+  {
+    "title": "Bài tập bổ trợ tiếng Anh lớp 5 – Chữa lỗi sai thường gặp, vững vàng vào lớp 6 (có đáp án)",
+    "author": "Ngọc Diệp & Nhóm Giáo Viên ĐHSP",
+    "translator": "",
+    "partner": "Công ty TNHH TM & DV Văn hóa Giáo dục Phía Nam. Địa chỉ: 57 Vũ Trọng Phụng, Phường Phú Thọ Hòa, TP. Hồ Chí Minh",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/13-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Bài tập bổ trợ tiếng Anh lớp 4 – Chữa lỗi sai thường gặp, chắc nền tảng (có đáp án)",
+    "author": "Ngọc Diệp & Nhóm Giáo Viên ĐHSP",
+    "translator": "",
+    "partner": "Công ty TNHH TM & DV Văn hóa Giáo dục Phía Nam. Địa chỉ: 57 Vũ Trọng Phụng, Phường Phú Thọ Hòa, TP. Hồ Chí Minh",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/12-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Tâm lý học",
+    "author": "Trường Đại học Sài Gòn. Nguyễn Thị Ngọc (Chủ biên), Phan Thị Thanh Hương, Cao Thị Nga, Minh Thị Lâm, Nguyễn Thị Hồng Hoa, Phùng Phương Thảo",
+    "translator": "",
+    "partner": "Tác giả Nguyễn Thị Ngọc. Địa chỉ: 595/001 C/C 88 căn CMT8, phường Hoà Hưng, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/11-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng viết đẹp lớp 5 tập hai (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/10-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng, viết đẹp lớp 5 tập một (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/9-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng viết đẹp lớp 4 tập hai (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/8-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng, viết đẹp lớp 4 tập một (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/7-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng viết đẹp lớp 3 tập hai (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/6-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng, viết đẹp lớp 3 tập một (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/5-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng viết đẹp lớp 2 tập hai (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/4-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng, viết đẹp lớp 2 tập một (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/3-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng viết đẹp lớp 1 tập hai (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/2-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giúp em viết đúng, viết đẹp lớp 1 tập một (Biên soạn theo Chương trình Giáo dục phổ thông mới và Quyết định 3588/QĐ-BGDĐT năm 2025 của Bộ Giáo dục và Đào tạo)",
+    "author": "Phạm Hải Lê (chủ biên), An Hồng Đăng, Châu Mi Lan",
+    "translator": "",
+    "partner": "Công ty Cổ phần Công nghệ Khang Phúc. Địa chỉ: 218 Cô Giang, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.",
+    "nxb_code": "ĐHSPTPHCM",
+    "publisher": "NXB ĐHSPTPHCM",
+    "registration_number": "2848-2026/CXBIPH/1-51/ĐHSPTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Hành trình 50 năm - Sáng tạo và phát triển",
+    "author": "Tổng Công ty Điện lực Thành phố Hồ Chí Minh",
+    "translator": "",
+    "partner": "Tổng Công ty Điện lực Thành phố Hồ Chí Minh, số 35 Tôn Đức Thắng, phường Sài Gòn, TPHCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/8-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "LIFE PLAZA - 라이프플라자 제 422호 - https://lifeplaza.net.vn - Life Plaza. HCMC - 2026년 8월 - 8월 7일 첫번째",
+    "author": "Life Plaza. HCMC",
+    "translator": "",
+    "partner": "Công ty TNHH Life Plaza - Số 1 Cộng Hòa 3, phường Phú Thọ Hòa, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/7-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình chuẩn YCT 4 - Sách bài tập - 标准 教程 - 活动手册",
+    "author": "Chủ biên: Tô Anh Hà - Biên soạn: Giải Hồng (主编: 苏英霞 - 编者: 解红)",
+    "translator": "Tiến sĩ Nguyễn Thị Minh Hồng - Giảng viên trường Đại học Sư phạm Thành phố Hồ Chí Minh (阮氏明红 博士 - 胡志明市师范大学教师)",
+    "partner": "Công ty TNHH Nhân Trí Việt - 83B Trần Đình Xu, P. Cầu Ông Lãnh, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/6-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Tiếng Trung ứng dụng - Sơ cấp 1 - 会通汉语 - 精编版 - 初级 (符合《国际中文教育中文水平等级标准》(GF0025-2021)",
+    "author": "Tổng hoạch định: Vương Lập Tân, Trịnh Vượng Toàn;Chủ biên: Lư Phúc Ba;Biên soạn: Lương Hiểu Bình, Lý Mẫn, Trâu Nhã Diễm (总策划: 王立新, 郑旺全;主编: 卢福波;编著: 梁晓萍, 李敏, 邹雅艳)",
+    "translator": "Bản dịch tiếng Việt: Trương Thị Thanh Thủy, Đặng Thu Lan (越文翻译: 张清水, 邓金萍)",
+    "partner": "Công ty Cổ phần Giáo dục Quốc tế SHZ - 247 Nguyễn Thị Minh Khai, P.Cầu Ông Lãnh, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/5-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Đừng bao giờ từ bỏ ước mơ - Chicken soup for the soul - Living your dreams - hạt giống tâm hồn - Tái bản có chỉnh sửa và bổ sung",
+    "author": "Jack Canfield & Mark Victor Hansen",
+    "translator": "Biên dịch: First News",
+    "partner": "Công ty TNHH Văn hóa Sáng tạo Trí Việt (First News) - 11H Nguyễn Thị Minh Khai, P. Sài Gòn, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/4-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "DUY TÂN - Tiểu sử lạ thường của một hoàng đế",
+    "author": "FRANÇOIS JOYAUX",
+    "translator": "Quế Sơn",
+    "partner": "PHANBOOK (thuộc Công ty TNHH Phan Lệ & Friends, Địa chỉ: 50A Tôn Thất Thuyết, Phường Xóm Chiếu, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/3-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "VÔ ƯU - Tập 88 (Năm thứ 28) - VU LAN BÁO HIẾU PL2570 -DL.2026. Chúc mừng Đại hội đại biểu GHPG Việt Nam tỉnh Đắk Lắk lần thứ nhất, nhiệm kỳ 2026 - 2031 thành công tốt đẹp!",
+    "author": "Giáo Hội Phật giáo Việt Nam Tỉnh Đắk Lắk",
+    "translator": "",
+    "partner": "Giáo Hội Phật giáo Việt Nam Tỉnh Đắk Lắk - 117 Phan Bội Châu, P. Buôn Ma Thuột, Tỉnh Đắk Lắk",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/2-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "TAM TẠNG THÁNH ĐIỂN PHẬT GIÁO VIỆT NAM 81 – TAM TẠNG PHẬT GIÁO ĐẠI THỪA 28 – KINH TẠNG – BỘ NIẾT-BÀN 4（涅槃部）",
+    "author": "Giáo hội Phật giáo Việt Nam - Viện nghiên cứu Phật học Việt Nam",
+    "translator": "Việt dịch Trung tâm Dịch thuật Trí Tịnh",
+    "partner": "Viện nghiên cứu Phật học Việt Nam – 750 Nguyễn Kiệm, P. Đức Nhuận, TP.HCM",
+    "nxb_code": "THTPHCM",
+    "publisher": "NXB THTPHCM",
+    "registration_number": "2847-2026/CXBIPH/1-140/THTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "Báo cáo thường niên địa chất (ANNUAL REPORT ON GEOLOGY)",
+    "author": "Cục Địa chất và Khoáng sản Việt Nam",
+    "translator": "",
+    "partner": "Cục Địa chất và Khoáng sản Việt Nam (số 6 Phạm Ngũ Lão, phường Cửa Nam, TP. Hà Nội)",
+    "nxb_code": "BaĐ",
+    "publisher": "NXB BaĐ",
+    "registration_number": "2846-2026/CXBIPH/1-443/BaĐ",
+    "is_manga": false
+  },
+  {
+    "title": "400 câu hỏi phát triển trí não - Mỗi câu hỏi là một bài tập nhỏ giúp trẻ rèn trí thông minh, tư duy nhanh nhạy và tự tin giải quyết vấn đề - Kích hoạt IQ - Nuôi dưỡng EQ - Rèn tư duy LOGIC - Tăng khả năng TẬP TRUNG",
+    "author": "Moribook",
+    "translator": "",
+    "partner": "Hộ kinh doanh Tekno VN",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2845-2026/CXBIPH/3-119/CT",
+    "is_manga": false
+  },
+  {
+    "title": "S.P.A BILINGUAL GUIDEBOOK VOL.01 2025-2026 Visit Phu Quoc (Đảo Ngọc những điểm đến Must-go; Chữa lành ở Phú Quốc; Những \"hòn đảo của Robinson\"; 與臺灣旅客同行: 第07頁)",
+    "author": "SUN PhuQuoc Airways",
+    "translator": "",
+    "partner": "Công ty Cổ phần Thương mại và Truyền thông Thời đại. Địa chỉ trụ sở chính: Tầng 3, tòa nhà Sun City, số 13 phố Hai Bà Trưng, Phường Cửa Nam, Hà Nội",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2845-2026/CXBIPH/2-119/CT",
+    "is_manga": false
+  },
+  {
+    "title": "Đạo mới của Warren Buffett Tít phụ: Những lời khuyên thông tuệ về kinh doanh và cuộc sống từ nhà đầu tư huyền thoại - The New Tao of Warren Buffett",
+    "author": "Mary Buffett, David Clark",
+    "translator": "Bùi Hà",
+    "partner": "Công ty CP Văn hóa và Truyền thông Nhã Nam - Số nhà 3, ngõ 361 Vũ Tông Phan, P. Khương Đình, Tp.HN VPĐD: 23-25 Chùa Láng-Phường Láng - Tp. HN",
+    "nxb_code": "CT",
+    "publisher": "NXB CT",
+    "registration_number": "2845-2026/CXBIPH/1-119/CT",
+    "is_manga": false
+  },
+  {
+    "title": "Hành trình tìm đường cứu nước của Nguyễn Tất Thành - Giá trị lý luận và bài học đối với công tác cán bộ hiện nay",
+    "author": "Trường Chính trị tỉnh Ninh Bình - ThS Phan Thành Công - TS Tạ Hoàng Minh (Đồng Chủ biên)",
+    "translator": "",
+    "partner": "Trường Chính trị tỉnh Ninh Bình",
+    "nxb_code": "LLCT",
+    "publisher": "NXB LLCT",
+    "registration_number": "2844-2026/CXBIPH/4-43/LLCT",
+    "is_manga": false
+  },
+  {
+    "title": "Những vấn đề triết học trong Văn kiện Đại hội XIV của Đảng Cộng sản Việt Nam (Sách chuyên khảo)",
+    "author": "PGS.TS Đặng Quang Định (Chủ biên)",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "LLCT",
+    "publisher": "NXB LLCT",
+    "registration_number": "2844-2026/CXBIPH/3-43/LLCT",
+    "is_manga": false
+  },
+  {
+    "title": "Đấu tranh phản bác quan điểm sai trái, thù địch, xuyên tạc về công tác cán bộ giai đoạn hiện nay (Sách chuyên khảo)",
+    "author": "TS Lê Thị Minh Hà (Chủ biên)",
+    "translator": "",
+    "partner": "TS Lê Thị Minh Hà - Học viện Chính trị quốc gia Hồ Chí Minh",
+    "nxb_code": "LLCT",
+    "publisher": "NXB LLCT",
+    "registration_number": "2844-2026/CXBIPH/2-43/LLCT",
+    "is_manga": false
+  },
+  {
+    "title": "Cục diện an ninh, chính trị toàn cầu dưới tác động của xung đột Nga - Ukraine hiện nay (Sách chuyên khảo)",
+    "author": "Học viện Chính trị quốc gia Hồ Chí Minh - TS Lê Thị Tình (Chủ biên)",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "LLCT",
+    "publisher": "NXB LLCT",
+    "registration_number": "2844-2026/CXBIPH/1-43/LLCT",
+    "is_manga": false
+  },
+  {
+    "title": "Những điệp viên nổi tiếng trong lịch sử tình báo thế giới",
+    "author": "Nguyễn Đăng Song",
+    "translator": "",
+    "partner": "Công ty cổ phần tri thức văn hóa sách Việt Nam, số 44 Xô Viết - Nghệ Tĩnh, phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/14-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Tư tưởng Hồ Chí Minh những luận điểm sáng tạo lớn (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/13-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Cội nguồn của sức mạnh niềm tin (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/12-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Một số vấn đề về nghiên cứu tư tưởng Hồ Chí Minh (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/11-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Pác Bó nguồn suối (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/10-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Học tập vấn đề quốc phòng như thế nào? (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/9-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến tranh nhân dân Việt Nam chống chiến tranh phá hoại của đế quốc Mỹ (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/8-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Xây dựng lực lượng vũ trang nhân dân *** (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/7-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Xây dựng lực lượng vũ trang nhân dân ** (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/6-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Xây dựng lực lượng vũ trang nhân dân * (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/5-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Đường lối quân sự của Đảng ** (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/4-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Đường lối quân sự của Đảng * (sách kỷ niệm 115 năm ngày sinh của Đại tướng Võ Nguyên Giáp (25/8/1911-25/8/2026)",
+    "author": "Đại tướng Võ Nguyên Giáp",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/3-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Lịch sử Trung đoàn tàu ngầm 196 (1996-2026)",
+    "author": "Quân chủng Hải quân, Trung đoàn tàu ngầm 196",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/2-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Hỏi và đáp về bảo vệ nền tảng tư tưởng của Đảng đấu tranh phản bác các quan điểm sai trái, thù địch trong thời kỳ mới",
+    "author": "Ban chỉ đạo 35 Quân ủy Trung ương",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "QĐND",
+    "publisher": "NXB QĐND",
+    "registration_number": "2843-2026/CXBIPH/1-41/QĐND",
+    "is_manga": false
+  },
+  {
+    "title": "Liệu pháp dinh dưỡng cho mọi loại bệnh - Thực phẩm đúng cách hôm nay là đơn thuốc dịu dàng cho cơ thể ngày mai",
+    "author": "Tác giả: Chủ biên Bác sĩ Lý Hải Hà - Chu Phương",
+    "translator": "Dịch: Nguyễn Thị Duyên/ Bút danh: Mai Mai",
+    "partner": "Công Ty TNHH LUHA BOOKS - Số 2 Ngõ 62, Đường Núi Đôi, Xã Sóc Sơn, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/55-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Khi hơi thở hóa thinh không (logo 10 năm Omega+)",
+    "author": "Paul Kalanithi",
+    "translator": "Abraham Verghese đề tựa Trần Thanh Hương dịch",
+    "partner": "Công ty Cổ phần Sách Omega Việt Nam - Tầng 5, tòa nhà số 14 Pháo Đài Láng, Phường Láng, TP Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/54-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "NỀN TẢNG NGỮ PHÁP - TỪ VỰNG MÔN TIẾNG ANH - Biên soạn theo chương trình Sách giáo khoa mới - Chuẩn form minh họa mới nhất của Bộ Giáo Dục - Dành cho học sinh thi Tốt nghiệp THPT và Đánh Giá Năng Lực",
+    "author": "TENSCHOOL - PHẠM LIỄU",
+    "translator": "",
+    "partner": "CÔNG TY TNHH MTV FATIMA - Số 08 dãy A4, Ngõ 6 đường Ngô Quyền, Tổ 12, Phường Hà Đông, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/53-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 4 – TẬP 2 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/52-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 4 – TẬP 1 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/51-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 3 – TẬP 2 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/50-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 3 – TẬP 1 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/49-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 2 – TẬP 2 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. Global success",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/48-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 2 – TẬP 1 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/47-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 1 – TẬP 2 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/46-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "VỞ BÀI TẬP TIẾNG ANH 1 – TẬP 1 - Nội dung chuẩn theo CHƯƠNG TRÌNH MỚI của Bộ Giáo Dục và Đào Tạo - Củng cố kiến thức và mở rộng vốn từ vựng bằng hệ thống bài tập đa dạng. - Giúp học sinh ôn luyện và đạt kết quả cao trong các bài kiểm tra và kỳ thi học sinh giỏi. (Global success)",
+    "author": "1980Edu",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hoá và Truyền Thông 1980 Books 20-H2 Ngõ 6 Trần Kim Xuyến, Yên Hoà, Cầu Giấy, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/45-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "500 bài tập Hóa học Trung học cơ sở - Biên soạn theo chương trình GDPT mới - Dùng cho bộ SGK thống nhất hiện hành - Chuyên đề bồi dưỡng học sinh khá, giỏi - Luyện thi vào lớp 10 chuyên.",
+    "author": "TS Nguyễn Văn Thời - ThS Lê Đình Nguyên",
+    "translator": "",
+    "partner": "Công ty TNHH Đầu tư & Phát triển Văn hóa Sách Việt - 36-38 Nguyễn Hậu, Phường Tân Sơn Nhì, TP Hồ Chí Minh",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/44-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Ngữ pháp và bài tập tổng hợp HSK4 + HSKK trung cấp Biên soạn, cập nhật và nâng cấp từ vựng theo chuẩn HSK 3.0 mới (HSK 9 cấp) - Hướng dẫn chi tiết bài thi HSKK trung cấp 汉语语法与练习 (HSK4) (HSKK 中级)",
+    "author": "Nguyên Trần",
+    "translator": "",
+    "partner": "Công ty TNHH VH&TT SKYBOOKS Việt Nam - Số 83 Lý Nam Đế, p.Hoàn Kiếm Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/43-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Đạt điểm tối đa Toán 12 Nguyên hàm, Tích phân & xác suất có điều kiện Tập 2 - Phủ kín dạng bài hiểu sâu bản chất giải nhanh hiệu quả, bám sát đề thi trên trường TN THPT và ĐGNL, làm chủ tư duy toán thực tế theo chuẩn đề thi mới",
+    "author": "Nguyễn Tiến Đạt",
+    "translator": "",
+    "partner": "Nguyễn Tiến Đạt Địa chỉ: Số 88 ngõ 27 Đại Cồ Việt, Phường Hai Bà Trưng, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/42-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Tăng tốc Tiếng Anh lớp 2 - Biên soạn theo sách giáo khoa Tiếng Anh Global Success - Theo chương trình Giáo dục phổ thông mới của Bộ Giáo dục và Đào tạo. Nội dung bám sát sách giáo khoa. Củng cố kiến thức qua nhiều bài tập thú vị. Nâng cao điểm số trong các bài thi trên lớp.",
+    "author": "Ecokid Book",
+    "translator": "",
+    "partner": "HỘ KINH DOANH ECOKID BOOK Trụ sở: NV6.15, Khu chức năng đô thị Tây Mỗ, Phường Tây Mỗ, Thành Phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/41-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Bộ đề luyện thi tốt nghiệp THPT môn Địa lí (Tích hợp ứng dụng học tập trực tuyến, Làm quen với hình thức thi trên máy tính, Rèn kỹ năng làm bài theo định dạng đề thi mới)",
+    "author": "Bùi Nghĩa Hoàng (Chủ biên), Nguyễn Quỳnh Anh",
+    "translator": "",
+    "partner": "Công ty CP Giáo dục và chuyển giao Công nghệ Việt Nam - Số 6, Ngõ 5 đường Hoàng Quốc Việt, Phường Nghĩa Đô, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/40-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "TỔNG ÔN TRỌNG TÂM NGỮ VĂN TRUNG HỌC PHỔ THÔNG - Hệ thống kiến thức trọng tâm theo chương trình SGK thống nhất - Đầy đủ các dạng thức câu hỏi ôn thi THPTQG; cơ sở để ôn thi Đánh giá năng lực và Đánh giá tư duy - 100% bài tập đều có lời giải và video hướng dẫn đầy đủ, chi tiết",
+    "author": "TS. HOÀNG THỊ THANH HUYỀN - TS. NGUYỄN THỊ THU TRANG - THS. NGUYỄN MỘNG TUYỀN - CAO THỊ HUYỀN",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/39-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Ngôi sao toán học nhí: TOÁN TƯ DUY dành cho bé 5-7 tuổi",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt. Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/38-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Ngôi sao toán học nhí: TOÁN TƯ DUY dành cho bé 4-6 tuổi",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt. Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/37-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Ngôi sao toán học nhí: TOÁN TƯ DUY dành cho bé 3-4 tuổi",
+    "author": "Huyền Linh",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt. Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/36-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "30+ ĐỀ LUYỆN THI TỐT NGHIỆP THPT 2027 SINH HỌC - Tặng kèm thêm 10 đề nâng cao trên hệ thống studybooks.vn - 100% đề thi đều có lời giải và video hướng dẫn đầy đủ, chi tiết - Bám sát chương trình giáo dục phổ thông mới, bám sát cấu trúc đề thi Tốt nghiệp THPT chương trình mới",
+    "author": "NGUYỄN THỊ THANH HUYỀN - NGUYỄN THỊ ANH THƠ",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/35-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "30+ ĐỀ LUYỆN THI TỐT NGHIỆP THPT 2027 TIẾNG ANH - Tặng kèm thêm 10 đề nâng cao trên hệ thống studybooks.vn - 100% đề thi đều có lời giải và video hướng dẫn đầy đủ, chi tiết - Bám sát chương trình giáo dục phổ thông mới, bám sát cấu trúc đề thi Tốt nghiệp THPT chương trình mới",
+    "author": "THS. HOÀNG NHẬT LINH (Chủ biên) - THS. CAO THỊ THU GIANG - THS. NGUYỄN THỊ NHÀN - THS. CHU THỊ THU HUYỀN - THS. NGUYỄN ĐỨC TRUNG - THS. LÊ NGỌC HUYỀN",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/34-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "30+ ĐỀ LUYỆN THI TỐT NGHIỆP THPT 2027 VẬT LÍ - Tặng kèm thêm 10 đề nâng cao trên hệ thống studybooks.vn - 100% đề thi đều có lời giải và video hướng dẫn đầy đủ, chi tiết - Bám sát chương trình giáo dục phổ thông mới, bám sát cấu trúc đề thi Tốt nghiệp THPT chương trình mới",
+    "author": "THS. NGUYỄN HÀM HÒA",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/33-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "50 ĐỀ LUYỆN THI TỐT NGHIỆP THPT 2027 NGỮ VĂN - 100% đề thi đều có lời giải và video hướng dẫn đầy đủ, chi tiết - Bám sát chương trình giáo dục phổ thông mới, bám sát cấu trúc đề thi Tốt nghiệp THPT chương trình mới - Ngữ liệu đề thi đặc sắc phong phú, 100% ngữ liệu ngoài sách giáo khoa",
+    "author": "TS. HOÀNG THỊ THANH HUYỀN (Chủ biên) - TS. ĐỖ THỊ HIÊN - THS. NGUYỄN THỊ NGÀ - CAO THỊ HUYỀN - ĐÌNH THỊ THANH HOA",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/32-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "30+ ĐỀ LUYỆN THI TỐT NGHIỆP THPT 2027 HOÁ HỌC - Tặng kèm thêm 10 đề nâng cao trên hệ thống studybooks.vn - 100% đề thi đều có lời giải và video hướng dẫn đầy đủ, chi tiết - Bám sát chương trình giáo dục phổ thông mới, bám sát cấu trúc đề thi Tốt nghiệp THPT chương trình mới",
+    "author": "TS. NGUYỄN BÌNH NGUYÊN - THS. NGUYỄN THU HIỀN - THS. DƯƠNG THANH HOA - THS. LÊ NGỌC HIẾU",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam, Số 50, Đường 5, An Dương, Hồng Hà, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/31-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Luyện đề kiểm tra định kì Toán 2 (bám sát nội dung chương trình mới nhất của Bộ Giáo dục và Đào tạo)",
+    "author": "Thảo Nguyên",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook 61-63 đường Khuất Duy Tiến, phường Thanh Xuân, TP. Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/30-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Bài tập tiếng Anh lớp 8, 4 kỹ năng (Tập 1) có đáp án - theo chương trình tiếng Anh 8",
+    "author": "ThS. Lê Vy (Chủ biên) - Thuỳ Dung - Thu Hương",
+    "translator": "",
+    "partner": "Công ty TNHH Giáo dục SmartBee - (Địa chỉ: Số 8, đường 420, Tổ dân phố Phú Tân, xã Thạch Thất, Hà Nội)",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/29-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Sĩ số lớp vắng 0 (Bản kỷ niệm)",
+    "author": "Emma Hạ My",
+    "translator": "",
+    "partner": "CÔNG TY TNHH VĂN HÓA VÀ TRUYỀN THÔNG AZ VIỆT NAM - Tủ sách kinh dị - thuộc thương hiệu sách Người Trẻ Việt - Số 50, Đường 5, Tập thể F361, An Dương, Phường Hồng Hà, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/28-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Tống Từ đại truyện",
+    "author": "Vương Hoành Giáp",
+    "translator": "Tú Phương",
+    "partner": "Công ty Cổ phần Sách Bách Việt (Số 9, ngõ 55/9 Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Tp. Hà Nội)",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/27-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Mèo Mốc Black Book - 9",
+    "author": "Mèo Mốc",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Skybooks Việt Nam (Địa chỉ: số 83 Lý Nam Đế, phường Hoàn Kiếm, TP Hà Nội)",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/26-132/DT",
+    "is_manga": true
+  },
+  {
+    "title": "Những cuộc phiêu lưu của Tom Sawyer - The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "translator": "Nguyễn Thúy Loan",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/25-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện Cổ tích hiện đại – Modern Fairy Tales Song ngữ Bilingual",
+    "author": "Hồng Nga",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/24-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện Dân gian thế giới – World Folk Tales Song ngữ Bilingual",
+    "author": "Hồng Nga",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/23-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện Nghìn lẻ một đêm – Stories from Arabian Nights Song ngữ Bilingual",
+    "author": "Hồng Nga",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/22-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện cổ Grimms – Grimms' Tales Song ngữ Bilingual",
+    "author": "Thúy Loan",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/21-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện cổ Andersen – Andersen Fairy Tales Song ngữ Bilingual",
+    "author": "Hồng Nga",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/20-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Illustrated Classics KHO TÀNG TRUYỆN CỔ TÍCH BỐN PHƯƠNG – THE GREAT TREASURY OF FAIRY TALES Truyện ngụ ngôn Aesop – Aesop's Fables Song ngữ Bilingual",
+    "author": "Thúy Loan",
+    "translator": "",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/19-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Túp lều bác Tôm - Uncle Tom’s Cabin Song ngữ Bilingual",
+    "author": "Harriet Beecher Stowe",
+    "translator": "Hồng Trà",
+    "partner": "Công ty TNHH HG Books LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/18-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Thủy điệt đồng Chiêm (Tập truyện ngắn)",
+    "author": "Nguyễn Thu Hằng",
+    "translator": "",
+    "partner": "Hộ kinh doanh Nhà sách Thái Thịnh; Địa chỉ: Xã Tam Hưng, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/17-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Sen đá (Tập truyện ngắn)",
+    "author": "Nguyễn Hồng",
+    "translator": "",
+    "partner": "Hộ kinh doanh Nhà sách Thái Thịnh; Địa chỉ: Xã Tam Hưng, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/16-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "สูตรการวางระบบบริหารตามเป้าหมายและกลไกการกำหนดผลงานสำหรับแต่ละแผนก",
+    "author": "Weupbook",
+    "translator": "Đỗ Thị Hạnh",
+    "partner": "Công ty TNHH WE UP. Địa chỉ: Tầng 7, tòa nhà Peakview Tower, số 36, phố Hoàng Cầu, Phường Ô Chợ Dừa, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/15-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Dạy bạn 400 cách đối nhân xử thế Giúp bạn đọc vị tâm lý, học cách ứng xử linh hoạt, vừa thông minh vừa tinh tế trong mọi mối quan hệ",
+    "author": "KEEbooks",
+    "translator": "",
+    "partner": "CÔNG TY TNHH KEE GLOBAL - Địa chỉ: Khu 11, xã Bản Nguyên, Tỉnh Phú Thọ",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/14-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Để mẹ không còn bất lực trước con - Lắng nghe đúng cách để yêu thương chạm đến trái tim con - Mỗi lời mẹ đáp lại đều là ánh sáng soi rọi thế giới của con",
+    "author": "Hòa Tâm",
+    "translator": "Nguyễn Thị Duyên/ Bút danh: Mai Mai",
+    "partner": "Công Ty TNHH LUHA BOOKS/Số 2 Ngõ 62, Đường Núi Đôi, Xã Sóc Sơn, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/13-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "AS A MAN THINKED From Poverty to Power KHI NGƯỜI TA TƯ DUY Từ Nghèo Khó Đến Quyền Lực Song ngữ Bilingual Thay đổi tư duy, kiến tạo vận mệnh Change Your Thoughts, Shape Your Destiny",
+    "author": "James Allen",
+    "translator": "Linh Nguyễn",
+    "partner": "Công ty TNHH HG Books - LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/12-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "THE MASTER KEY SYSTEM MẬT MÃ THÀNH CÔNG Song ngữ Bilingual The Classic Guide to Mastering the Mind and Unlocking Your Potential Cẩm nang kinh điển về làm chủ tư duy và khai mở tiềm năng",
+    "author": "Charles F. Haanel",
+    "translator": "Hà Ly",
+    "partner": "Công ty TNHH HG Books - LK5-25, Vinhomes Thăng Long, khu đô thị Nam An Khánh, An Khánh, Hoài Đức, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/11-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "145 câu hỏi giúp bạn sống một cuộc đời khác với ngày hôm qua",
+    "author": "Lee Min Kyu",
+    "translator": "Lê Kiều Trang",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam. ĐC: 50, Đường 5, Tập thể F361, An Dương, Phường Hồng Hà, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/10-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Documoment Bước tới nền kinh tế bạc",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/9-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Cùng \"Say Hi\" các tập đoàn giải trí (cập nhật tên final cuối ngày 9/7)",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/8-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Hên, Son và cuộc định nghĩa \"người Việt Nam đích thực\"",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/7-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Thực chiến với các khoá học thực chiến",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/6-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Hội chứng \"dán nhãn\" ...hay là cuộc đào tẩu khỏi trách nhiệm xã hội?",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/5-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "01.documoment - Một cấu trúc biểu tượng giữa ký ức và hiện tại",
+    "author": "RIO Book Lab",
+    "translator": "",
+    "partner": "Công ty Cổ phần RIO Book Việt Nam - H6-SH23 Khu trung tâm khu đô thị Tây Hồ Tây, phường Xuân Đỉnh, Thành phố Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/4-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Bật chế độ vô tri",
+    "author": "Than Hồng",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam - ĐC: 50, Đường 5, Tập thể F361, An Dương, phường Hồng Hà, Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/3-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "Để lại gió trên đời (Tự truyện)",
+    "author": "Lưu Văn Mạnh",
+    "translator": "",
+    "partner": "Công ty Cổ phần Sách Alpha, Tầng 3, Dream Home Center, 11a ngõ 282 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/2-132/DT",
+    "is_manga": false
+  },
+  {
+    "title": "KỶ YẾU HỘI ĐỒNG NHÂN DÂN TỈNH HƯNG YÊN KHÓA XVIII KỲ HỌP THỨ HAI (NHIỆM KỲ 2026 - 2031) - Lưu hành nội bộ",
+    "author": "Hội đồng nhân dân tỉnh Hưng Yên",
+    "translator": "",
+    "partner": "Công ty Cổ phần In và Truyền thông Hoàng Hà. Địa chỉ: Số 28, hẻm 6, ngách 1, ngõ 140 Nguyễn Xiển, phường Thanh Liệt, thành phố Hà Nội.",
+    "nxb_code": "DT",
+    "publisher": "NXB Dân Trí",
+    "registration_number": "2842-2026/CXBIPH/1-132/DT",
+    "is_manga": false
   }
 ]
