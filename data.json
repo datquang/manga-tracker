@@ -39478,5 +39478,65 @@
     "publisher": "NXB Hà Nội",
     "registration_number": "3092-2026/CXBIPH/7-252/HN",
     "is_manga": true
+  },
+  {
+    "title": "Khẽ hát lời yêu - Whispering you a love song 11",
+    "author": "Eku Takeshima",
+    "translator": "Trần Yang",
+    "partner": "Công ty CP Xuất bản và truyền thông IPM - Số 88 Phố Nguyễn Văn Trỗi, Phương Liệt, Hà Nội",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/6-252/HN",
+    "is_manga": true
+  },
+  {
+    "title": "Góc nhìn 133 cm - 5",
+    "author": "Hiruno Tsukiko",
+    "translator": "Hina",
+    "partner": "Công ty CP Xuất bản và truyền thông IPM - Số 88 Phố Nguyễn Văn Trỗi, Phương Liệt, Hà Nội",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/5-252/HN",
+    "is_manga": true
+  },
+  {
+    "title": "Góc nhìn 133 cm - 4",
+    "author": "Hiruno Tsukiko",
+    "translator": "Hina",
+    "partner": "Công ty CP Xuất bản và truyền thông IPM - Số 88 Phố Nguyễn Văn Trỗi, Phương Liệt, Hà Nội",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/4-252/HN",
+    "is_manga": false
+  },
+  {
+    "title": "Lấy vợ hồ ly (18+)",
+    "author": "Kiều Ngọc Liên",
+    "translator": "",
+    "partner": "Công ty TNHH VH&TT AZ Việt Nam - Nhãn sách Moon Novels. ĐC: 50, Đường 5, Tập thể F361, An Dương, phường Hồng Hà, Hà Nội.",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/3-252/HN",
+    "is_manga": false
+  },
+  {
+    "title": "Bố con cá gai",
+    "author": "Cho Chang - In",
+    "translator": "Nguyễn Thị Thu Vân",
+    "partner": "Công ty CP Văn hóa và Truyền thông Nhã Nam - Số nhà 3, ngõ 361 Vũ Tông Phan, P. Khương Đình, Hà Nội (VPĐD: 23-25 Chùa Láng, Phường Láng, Hà Nội)",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/2-252/HN",
+    "is_manga": false
+  },
+  {
+    "title": "Tình cha - Trường ca",
+    "author": "Nguyễn Tiến Long",
+    "translator": "",
+    "partner": "Công ty TNHH in Thương mại và Dịch vụ Nguyễn Lâm. Địa chỉ: số 352 Giải Phóng, phường Phương Liệt, Hà Nội",
+    "nxb_code": "HN",
+    "publisher": "NXB Hà Nội",
+    "registration_number": "3092-2026/CXBIPH/1-252/HN",
+    "is_manga": false
   }
 ]
