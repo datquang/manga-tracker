@@ -39538,5 +39538,25 @@
     "publisher": "NXB Hà Nội",
     "registration_number": "3092-2026/CXBIPH/1-252/HN",
     "is_manga": false
+  },
+  {
+    "title": "Financial accounting 2 (Monograph)",
+    "author": "Đồng chủ biên: TS. Trần Thị Thanh Xuân, TS. Chu Thị Bích Hạnh;Tham gia thực hiện: TS. Nguyễn Tú Anh, TS. Nguyễn Tuấn Anh, Ths. Vũ Thuỷ Hà, Ths. Nguyễn Mai Hương, TS. Vũ Thị Minh",
+    "translator": "",
+    "partner": "Trần Thị Thanh Xuân (Địa chỉ: SN 321. Khu đô thị Hoàng Gia, Tổ 50, Phường Phan Đình Phùng, Tỉnh Thái Nguyên)",
+    "nxb_code": "ĐHTN",
+    "publisher": "NXB ĐHTN",
+    "registration_number": "3095-2026/CXBIPH/2-134/ĐHTN",
+    "is_manga": false
+  },
+  {
+    "title": "Financial accounting 1 (Monograph)",
+    "author": "Đồng chủ biên: TS. Trần Thị Thanh Xuân, TS. Nguyễn Tú Anh;Tham gia thực hiện: TS. Nguyễn Tuấn Anh, Ths. Vũ Thuỷ Hà, Ths. Nguyễn Mai Hương, Ths. Trần Nhật Quang",
+    "translator": "",
+    "partner": "Trần Thị Thanh Xuân (Địa chỉ: SN 321. Khu đô thị Hoàng Gia, Tổ 50, Phường Phan Đình Phùng, Tỉnh Thái Nguyên)",
+    "nxb_code": "ĐHTN",
+    "publisher": "NXB ĐHTN",
+    "registration_number": "3095-2026/CXBIPH/1-134/ĐHTN",
+    "is_manga": false
   }
 ]
