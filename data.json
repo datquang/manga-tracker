@@ -46038,5 +46038,265 @@
     "publisher": "NXB MT",
     "registration_number": "3206-2026/CXBIPH/9-60/MT",
     "is_manga": false
+  },
+  {
+    "title": "Juliet & Juliet",
+    "author": "Freaky",
+    "translator": "Astrid Do",
+    "partner": "Công ty TNHH Thương mại De Muse. Địa chỉ: 750/9/9A Nguyễn Kiệm, Phường Đức Nhuận, TP. HCM.",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/20-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Là họa không thể tránh - Toàn tập",
+    "author": "Đan Thanh Thủ",
+    "translator": "Thanh Ninh",
+    "partner": "Công ty TNHH VH&TT SKYBOOKS Việt Nam. Số 83 Lý Nam Đế, p. Hoàn Kiếm, Hà Nội.",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/19-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Thực mộng đan cài",
+    "author": "Trương Ngọc Lan",
+    "translator": "",
+    "partner": "Liên kết tác giả Trương Ngọc Lan",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/18-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyển tập Kawabata - Truyện ngắn",
+    "author": "Kawabata Yasunari",
+    "translator": "Nguyễn Nam Trân",
+    "partner": "Công ty CP sách Tao Đàn Số 12C Hàng Than, Ba Đình, Hà Nội,",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/17-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Nghệ thuật phòng the - Để cuộc yêu thăng hoa (18+)",
+    "author": "Ian Kerner",
+    "translator": "Quế Chi",
+    "partner": "Công ty cổ phần sách Bizbooks Địa chỉ: Ô số E34, khu đấu giá 3ha, Phường Phú Diễn, Thành phố Hà Nội",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/16-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "80 tuyệt chiêu giúp bạn trở thành chiến thần Livestream",
+    "author": "Trần Trung Đãi, Trần Vịnh Tuyết",
+    "translator": "Vũ Huy Hoàng",
+    "partner": "",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/15-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Chú sâu háu ăn - The very hungry caterpillar",
+    "author": "Eric Carle",
+    "translator": "Nguyễn Trà",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn, Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/14-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng trên bầu trời",
+    "author": "Toshio Iwai",
+    "translator": "Trần Bảo Ngọc",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/13-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng dưới lòng đất",
+    "author": "Toshio Iwai",
+    "translator": "Trần Bảo Ngọc",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/12-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng dưới biển",
+    "author": "Toshio Iwai",
+    "translator": "Trần Bảo Ngọc",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/11-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng",
+    "author": "Toshio Iwai",
+    "translator": "Trần Bảo Ngọc",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/10-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng trong rừng",
+    "author": "Toshio Iwai",
+    "translator": "Chi Anh",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/9-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Tòa nhà 100 tầng dưới đầm lầy",
+    "author": "Toshio Iwai",
+    "translator": "Chi Anh",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/8-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ sẽ ôm con nhiều hơn - Con sẽ ôm mẹ nhiều hơn - I'll Hug You More - (Một cuốn sách hai chiều. Cũng giống như tình yêu Không bao giờ kết thúc)",
+    "author": "Tác giả: Laura Duksta Minh họa: Melissa Iwai",
+    "translator": "Hạ Ni",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/7-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Mẹ yêu con nhiều hơn - Con yêu mẹ nhiều hơn - I Love You More. (Một cuốn sách hai chiều. Cũng giống như tình yêu Không bao giờ kết thúc)",
+    "author": "Tác giả: Laura Duksta Minh họa: Karen Keesler",
+    "translator": "Hạ Ni",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/6-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Chú cừu xanh lá ở đâu rồi nhỉ? Where is the Green Sheep?",
+    "author": "Viết lời: Mem Fox Minh họa: Judy Horacek",
+    "translator": "Lã Thúy",
+    "partner": "Công ty cổ phần xuất bản và giáo dục Quảng Văn. (Số nhà 31, ngõ 150 đường Hoàng Công Chất, P. Phú Diễn , Tp. Hà Nội)",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/5-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Phiếu luyện toán tư duy cùng Gấu KiKi 2. Làm quen với hình khối",
+    "author": "Trần Thị Hường",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook Địa chỉ: 61-63 Khuất Duy Tiến, Thanh Xuân, Hà Nội.",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/4-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Thám tử siêu Mông - Băng trộm bất tử",
+    "author": "Troll",
+    "translator": "Education Solutions Việt Nam",
+    "partner": "Công ty TNHH Education Solutions Việt Nam; Tầng 1, Tòa nhà Vietphone Building, Số 64 Nguyễn Đình Chiểu, Phường Tân Định, TP Hồ Chí Minh, Việt Nam",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/3-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Thám tử siêu Mông - Kẻ khổng lồ biến mất trong màn đêm",
+    "author": "Troll",
+    "translator": "Education Solutions Việt Nam",
+    "partner": "Công ty TNHH Education Solutions Việt Nam; Tầng 1, Tòa nhà Vietphone Building, Số 64 Nguyễn Đình Chiểu, Phường Tân Định, TP Hồ Chí Minh, Việt Nam",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/2-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Thám tử siêu Mông - Vụ án mật mã của Phu Nhân Tím",
+    "author": "Troll",
+    "translator": "Education Solutions Việt Nam",
+    "partner": "Công ty TNHH Education Solutions Việt Nam; Tầng 1, Tòa nhà Vietphone Building, Số 64 Nguyễn Đình Chiểu, Phường Tân Định, TP Hồ Chí Minh, Việt Nam",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3463-2026/CXBIPH/1-76/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Những chuyến phiêu lưu nhỏ ở miền đất Chín Rồng – Tập 1: Tảng băng trôi màu xanh (Little Mekong Adventures. Volum 1: The Green Iceberg)",
+    "author": "A My Lê",
+    "translator": "",
+    "partner": "Lê Thị Huế My. Địa chỉ: Số 525 Ấp Thới An, Xã Châu Hòa, Tỉnh Vĩnh Long",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3419-2026/CXBIPH/3-75/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Bài tập tổng ôn kỹ năng viết HSK 1-2 Title phụ: - Bài tập ứng dụng bám sát theo giáo trình chuẩn HSK - Có đáp án",
+    "author": "Thạc sĩ Lường Thúy Bình (Tiếng Trung Tiếu Tiếu)",
+    "translator": "",
+    "partner": "Công ty TNHH VH&TT SKYBOOKS Việt Nam. Số 83 Lý Nam Đế, p.Hoàn Kiếm Hà Nội.",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3419-2026/CXBIPH/2-75/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Truyền thông trách nhiệm xã hội doanh nghiệp trong bối cảnh Việt Nam (Kỷ yếu hội thảo)",
+    "author": "ĐHQG TP.HCM - Trường Đại học Khoa học Xã hội và Nhân văn Nhiều tác giả",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "PN",
+    "publisher": "NXB Phụ Nữ",
+    "registration_number": "3419-2026/CXBIPH/1-75/PN",
+    "is_manga": false
+  },
+  {
+    "title": "Sổ tay hướng dẫn trồng, chăm sóc và thu hoạch dừa Xiêm",
+    "author": "GS.TS. Huỳnh Văn Chương, TS. Trần Đăng Khoa (đồng chủ biên), PGS.TS. Trần Thị Xuân Phương, TS. Vũ Tuấn Minh, TS. Trần Thị Hương Sen, TS. Nguyễn Trung Hải",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "NN",
+    "publisher": "NXB NN",
+    "registration_number": "3354-2026/CXBIPH/2-64-KHXB/NN",
+    "is_manga": false
+  },
+  {
+    "title": "Tài nguyên thực vật hữu ích phi nông nghiệp ở Thành phố Cần Thơ (Non-agricultural useful plant resources in Can Tho City)",
+    "author": "Bộ Giáo Dục và Đào Tạo, Đại học Cần Thơ;Ủy Ban Nhân dân Thành phố Cần Thơ, Sở Khoa học và Công nghệ Thành phố Cần Thơ (logo);PGS.TS. Đặng Minh Quân (chủ biên), PGS.TS. Nguyễn Trọng Hồng Phúc, ThS. Phạm Thị Bích Thủy, ThS. Lâm Hải Đăng, TS. Đặng Thị Thu",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "NN",
+    "publisher": "NXB NN",
+    "registration_number": "3354-2026/CXBIPH/1-64-KHXB/NN",
+    "is_manga": false
+  },
+  {
+    "title": "Chinh phục VDC tinh hoa toán 11 toàn diện",
+    "author": "Nguyễn Đăng Ái",
+    "translator": "",
+    "partner": "Nguyễn Đăng Ái Địa chỉ: Phố Khám, phường Thuận Thành, Bắc Ninh",
+    "nxb_code": "GTVT",
+    "publisher": "NXB GTVT",
+    "registration_number": "3329-2026/CXBIPH/4-67/GTVT",
+    "is_manga": false
   }
 ]
