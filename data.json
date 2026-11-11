@@ -91578,5 +91578,785 @@
     "publisher": "NXB HĐ",
     "registration_number": "4409-2026/CXBTV/1-141/HĐ",
     "is_manga": false
+  },
+  {
+    "title": "Lịch bàn 2027 - CÔNG TY CỔ PHẦN NHIÊN LIỆU BAY PETROLIMEX",
+    "author": "CÔNG TY CỔ PHẦN TRUYỀN THÔNG THIÊN TRÀ",
+    "translator": "",
+    "partner": "CÔNG TY CỔ PHẦN TRUYỀN THÔNG THIÊN TRÀ-130 Trần Nhật Duật, Phường Hoàn Kiếm, TP. Hà Nội, Việt Nam",
+    "nxb_code": "KTTC",
+    "publisher": "NXB KTTC",
+    "registration_number": "4485-2026/CXBTV/3-168/KTTC",
+    "is_manga": false
+  },
+  {
+    "title": "LỊCH BÀN 2027 - TỔNG CÔNG TY HOÁ DẦU PETROLIMEX",
+    "author": "Công ty TNHH Thương mại và Dịch vụ CN Ngọc Dương",
+    "translator": "",
+    "partner": "Công ty TNHH Truyền thông Công Nghệ Số-Số nhà A19, đường Võ Chí Công, Tổ 4, cụm 1, Phường Tây Hồ, TP. Hà Nội",
+    "nxb_code": "KTTC",
+    "publisher": "NXB KTTC",
+    "registration_number": "4485-2026/CXBTV/2-168/KTTC",
+    "is_manga": false
+  },
+  {
+    "title": "Lịch bàn: Lịch phổ biến thông tin Thống kê năm 2027",
+    "author": "Cục Thống kê",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "KTTC",
+    "publisher": "NXB KTTC",
+    "registration_number": "4485-2026/CXBTV/1-168/KTTC",
+    "is_manga": false
+  },
+  {
+    "title": "Lược sử Khoa học và kĩ thuật Việt Nam tiền hiện đại",
+    "author": "Trần Trọng Dương - Phạm Vũ Lộc - Nguyễn Ngọc Phương Đông",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/7-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Vietnamese Philosophy: Heritage and Renewal (Triết học Việt Nam: Di sản và đổi mới)",
+    "author": "Nguyễn Tài Đông – Nguyễn Bá Cường (Đồng Chủ biên)",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/6-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Toàn Việt thi lục – Khảo cứu Tác giả - Lịch sử - Văn bản",
+    "author": "Hà Văn Minh",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/5-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "300 bài hát thiếu nhi",
+    "author": "Nguyễn Văn Chung",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/4-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Những suy niệm Descartes – Dẫn nhập vào hiện tượng học (Cartesianische Meditationen - Eine Einleitung in die Phänomenologie)",
+    "author": "Edmund Husserl",
+    "translator": "Đinh Hồng Phúc",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/3-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Sứ thần Việt Nam trong bang giao Việt Nam – Trung Quốc từ thế kỉ X đến thế kỉ XIX",
+    "author": "Nguyễn Thị Thu Thuỷ",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/2-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Thanh tra, giám sát quan lại thời Hậu Lê thế kỉ XV – XVIII",
+    "author": "Phan Ngọc Huyền",
+    "translator": "",
+    "partner": "",
+    "nxb_code": "ĐHSP",
+    "publisher": "NXB ĐHSP",
+    "registration_number": "4484-2026/CXBTV/1-172/ĐHSP",
+    "is_manga": false
+  },
+  {
+    "title": "Giáo trình Trí tuệ nhân tạo",
+    "author": "PGS.TS. Hoàng Văn Dũng, TS. Phan Thị Huyền Trang, Trường Đại học Công nghệ Kỹ thuật Thành phố Hồ Chí Minh - Bộ Giáo dục và Đào tạo",
+    "translator": "",
+    "partner": "Trường Đại học Công nghệ Kỹ thuật Thành phố Hồ Chí Minh. Địa chỉ: Số 1, Võ Văn Ngân, phường Thủ Đức, TP.HCM",
+    "nxb_code": "ĐHQGTPHCM",
+    "publisher": "NXB ĐHQGTPHCM",
+    "registration_number": "4483-2026/CXBTV/1-81/ĐHQGTPHCM",
+    "is_manga": false
+  },
+  {
+    "title": "ĐÀM PHÁN NGƯỢC (Thuyết phục nhờ kiến tạo giải pháp như một deal-maker - Bộ công cụ đàm phán hữu dụng trong mọi tình huống đời thường, biến đồng ý thành lựa chọn hiển nhiên)",
+    "author": "Ginka",
+    "translator": "",
+    "partner": "Công ty TNHH ECOBLADER - 168G Lưu Hữu Phước, Phường Phú Định, Thành phố Hồ Chí Minh",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/7-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "Duyên nở duyên tàn rồi lại duyên",
+    "author": "Mako Okahata (Okahata Mako)",
+    "translator": "Anh Huỳnh",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Skybooks Việt Nam - Số 83 Lý Nam Đế, phường Hoàn Kiếm, TP. Hà Nội",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/6-249/ThG",
+    "is_manga": true
+  },
+  {
+    "title": "THƯƠNG MÌNH (Con đường trở về và mở ra)",
+    "author": "Thích Chân Pháp Nguyện",
+    "translator": "",
+    "partner": "Công ty TNHH Phan Lệ & Friends - Số 50A, đường Tôn Thất Thuyết, Phường Xóm Chiếu, TP Hồ Chí Minh",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/5-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "ĐÂM CHỒI TRUNG THỰC 2 - Những chồi non vươn tới (Con trung thực – Trách nhiệm – Nhân ái (6 -10 tuổi)) - HÀNH TRÌNH GIEO HẠT TÂM HỒN CHO CON (Ươm mầm nhân cách – Vun đắp tâm hồn; Từ Hạt Giống Nhân Phẩm đến Vườn Hoa Nhân Cách; Hành trình 22 năm kiến tạo phẩm cách Chân - Thiện - Mỹ cho con; “Nuôi con bằng tâm - Dạy con bằng tình - Dưỡng con thành nhân”)",
+    "author": "Trịnh Xuân Khanh",
+    "translator": "",
+    "partner": "Công ty Cổ phần Sách điện tử Waka - Tầng 6, Tháp văn phòng quốc tế Hòa Bình, số 106, đường Hoàng Quốc Việt, phường Nghĩa Đô, TP. Hà Nội",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/4-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "KỶ YẾU HỘI THẢO KHOA HỌC QUỐC TẾ: NÂNG CAO HIỆU QUẢ CÔNG TÁC ĐÀO TẠO VÀ QUẢN LÝ LƯU HỌC SINH NƯỚC CỘNG HÒA DÂN CHỦ NHÂN DÂN LÀO - INTERNATIONAL CONFERENCE CEEDINGS ENHANCING THE EFFECTIVENESS OF TRAINING AND MANAGEMENT OF LAO INTERNATIONAL STUDENTS",
+    "author": "BỘ GIÁO DỤC VÀ ĐÀO TẠO - TRƯỜNG ĐẠI HỌC TÂY BẮC - MINISTRY OF EDUCATION AND TRAINING - TAY BAC UNIVERSITY",
+    "translator": "",
+    "partner": "Công ty CP In và Thương mại Ngọc Hưng - 296 đường Phúc Diễn, Tổ dân phố số 1, Phường Xuân Phương, TP. Hà Nội",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/3-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "Đình Thần An Khánh - Di sản văn hóa và lịch sử của một vùng đất Nam Bộ",
+    "author": "Nhiều tác giả",
+    "translator": "",
+    "partner": "Công ty CP Văn hóa Sách Sài Gòn - 151A Nguyễn Đình Chiểu, phường Xuân Hòa, TP. Hồ Chí Minh",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/2-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "THỜ CÚNG CỔ TRUYỀN VIỆT NAM (Nghi lễ và thực hành nghi lễ)",
+    "author": "Trung Chính Quách Trọng Trà",
+    "translator": "Bùi Xuân Đính (hiệu đính)",
+    "partner": "Công ty CP Văn hóa và Truyền thông Nhã Nam - Số nhà 3, ngõ 361 Vũ Tông Phan, P. Khương Đình, Hà Nội",
+    "nxb_code": "ThG",
+    "publisher": "NXB ThG",
+    "registration_number": "4437-2026/CXBTV/1-249/ThG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến thắng Điện Biên Phủ - Sự kiện - Hỏi và đáp",
+    "author": "Tập thể tác giả",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/30-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến thắng Điện Biên Phủ - Cột mốc vàng lịch sử (Xuất bản lần thứ hai)",
+    "author": "Tập thể tác giả",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/29-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến lược phòng ngừa tội phạm - Lý luận và ứng dụng",
+    "author": "TS. Nguyễn Khắc Hải",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/28-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến lược phát triển vùng đến năm 2030, tầm nhìn đến năm 2045 (Tập 2)",
+    "author": "Đảng Cộng sản Việt Nam",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/27-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến lược phát triển vùng đến năm 2030, tầm nhìn đến năm 2045 (Tập 1)",
+    "author": "Đảng Cộng sản Việt Nam",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/26-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chiến lược phát triển pháp luật Việt Nam đến năm 2030, tầm nhìn đến năm 2045: Những vấn đề lý luận và thực tiễn (Sách chuyên khảo)",
+    "author": "GS.TS. Võ Khánh Vinh (Chủ biên)",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/25-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chỉ dẫn tra cứu, áp dụng pháp luật về tố cáo",
+    "author": "Nguyễn Anh Đức",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/24-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chỉ dẫn pháp luật về áp dụng các biện pháp xử lý hành chính",
+    "author": "Bộ Tư Pháp - Viện Khoa học Pháp lý, TS. Trương Hồng Quang",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/23-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chế độ quan lại triều Lê sơ (1428-1527) và những giá trị tham khảo cho cải cách chế độ công vụ, công chức ở Việt Nam hiện nay",
+    "author": "TS. Nguyễn Thị Thu Hòa",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/22-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chân lý và sự thật",
+    "author": "Vũ Hoàng Công",
+    "translator": "",
+    "partner": "TW đặt hàng",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/21-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Chạy… (Tiểu phẩm báo chí) (Xuất bản lần thứ ba)",
+    "author": "Hữu Thọ",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/20-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cây thẳng bóng ngay",
+    "author": "Hải Đường",
+    "translator": "",
+    "partner": "TW đặt hàng",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/19-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cấu trúc khu vực châu Á - Thái Bình Dương: Lý luận và thực tiễn",
+    "author": "GS. TS. Hoàng Khắc Nam",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/18-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang về tham nhũng, đạo đức và sự liêm chính trong hành chính công (Sách tham khảo)",
+    "author": "Adam Graycar (Chủ biên)",
+    "translator": "Biên dịch: Nguyễn Đăng Núi; Phùng Minh Thu Thủy; Lê Thị Thu Hương; Trần Lan Hương; Đinh Viết Hoàng; Dương Thùy Linh. Hiệu đính: Nguyễn Đăng Núi, Hoàng Thị Ba",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/17-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang pháp luật về kết hôn, ly hôn, chế độ tài sản của vợ chồng trong thời kỳ hôn nhân",
+    "author": "Luật gia Trương Ngọc Liêu",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/16-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang pháp luật về cư trú",
+    "author": "Luật sư Phạm Thanh Hữu",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/15-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang Kinh doanh và Đầu tư tại Algeria năm 2024",
+    "author": "Đại sứ quán Việt Nam tại Algeria - Thương vụ Việt Nam tại Algeria",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/14-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cẩm nang gia đình Việt",
+    "author": "Viện Tâm lý học và Truyền thông, PGS.TS. Nguyễn Thị Phương Hoa, TS. Nguyễn Thị Chính",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/13-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cạnh tranh Trung - Ấn tại Đông Nam Á (Sách tham khảo)",
+    "author": "Vũ Đức Liêm, Ninh Xuân Thao (Đồng chủ biên)",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/12-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cạnh tranh công nghệ Mỹ - Trung Quốc thời đại 4.0 (Sách chuyên khảo)",
+    "author": "TS. Nguyễn Việt Lâm, ThS. Lê Trung Kiên (Đồng chủ biên)",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/11-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cách mạng Việt Nam trong lòng bạn bè quốc tế thời kỳ 1945 - 1954",
+    "author": "TS. Phạm Thị Thanh Mai",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/10-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cách mạng Tháng Tám năm 1945 ở Thanh Hóa",
+    "author": "Tiến sĩ Võ Văn Thật",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/9-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cách mạng công nghiệp 4.0 dưới góc độ kinh tế học: Internet, Al, Blockchain (Sách tham khảo)",
+    "author": "Nicholas Johnson, Brendan Markey-Towler",
+    "translator": "Đinh Trọng Minh - Trần Anh Đức",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/8-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Cách chúng tôi làm: Chương trình bí mật xâm nhập miền Bắc Việt Nam 1961-1964",
+    "author": "THOM L. AHERN, JR.",
+    "translator": "Nguyễn Văn Cương",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/7-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Các văn bản chỉ đạo, hướng dẫn bầu cử đại biểu Quốc hội khóa XV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2021-2026",
+    "author": "Quốc hội",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/6-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Các thành phần kinh tế Việt Nam: Vấn đề và định hướng chính sách (Sách tham khảo)",
+    "author": "PGS.TS. Trần Đình Thiên (Chủ biên)",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/5-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Các tác phẩm đoạt Giải Búa liềm vàng (2022 - 2023)",
+    "author": "Tạp chí Xây dựng Đảng",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/4-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Các rào cản tài chính tiền tệ đối với sự phát triển doanh nghiệp Việt Nam (Sách chuyên khảo)",
+    "author": "PGS.TS. Tô Trung Thành (Chủ biên)",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/3-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Các biện pháp cưỡng chế thi hành quyết định phạt tiền trong xử phạt vi phạm hành chính: Thực trạng và giải pháp (Sách chuyên khảo)",
+    "author": "ThS. Nguyễn Nhật Khanh",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/2-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "C. Mác và Ph.Ăngghen Toàn tập, tập 26 (Phần III)",
+    "author": "C.Mác, Ph.Ăng-ghen",
+    "translator": "",
+    "partner": "TW đặt hàng + tự phát hành",
+    "nxb_code": "CTQG",
+    "publisher": "NXB CTQG",
+    "registration_number": "4436-2026/CXBTV/1-70/CTQG",
+    "is_manga": false
+  },
+  {
+    "title": "Vở bài tập cuối tuần tiếng Việt 1 (Cuốn sách giúp: Ôn tập nhanh kiến thức theo tuần - Bài tập chọn lọc, bám sát chương trình học)",
+    "author": "Mai Thanh Hằng",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook - số 61-63 đường Khuất Duy Tiến, phường Thanh Xuân Bắc, quận Thanh Xuân, Hà Nội",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/25-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Cat and Bunny Quiet Book (Ngôi nhà búp bê bằng giấy)",
+    "author": "Little Rainbow",
+    "translator": "",
+    "partner": "Công ty CP sách và Giáo dục trực tuyến Megabook - số 61-63 đường Khuất Duy Tiến, phường Thanh Xuân Bắc, quận Thanh Xuân, Hà Nội",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/24-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Điệu đà la cà",
+    "author": "Huyền Linh - Funtikidbooks",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/23-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Giáng sinh lung linh",
+    "author": "Huyền Linh - Funtikidbooks",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/22-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Một ngày nắng chill",
+    "author": "Huyền Linh - Funtikidbooks",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/21-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "THẾ GIỚI THỜI TRANG - Công chúa đại dương (90+ Stickers bóc dán)",
+    "author": "Funti kidbooks",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/20-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "THẾ GIỚI THỜI TRANG - Công chúa hoàng gia (90+ Stickers bóc dán)",
+    "author": "Funti kidbooks",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/19-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bài ca Solomon (Giải Nobel Văn chương 1993)",
+    "author": "Toni Morrison",
+    "translator": "Thiên Nga",
+    "partner": "Công ty CP Sách và Truyền thông San Hô - Tầng 6, tòa nhà M5, số 91 Nguyễn Chí Thanh, phường Giảng Võ, Thành phố Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/18-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hạt bụi vui",
+    "author": "Thai Sắc",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/17-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hiểu Hà Nội qua từng bát phở - Đi, thưởng thức và đọc vị thành phố qua các góc quán",
+    "author": "Công Khanh - Thục Anh",
+    "translator": "",
+    "partner": "Công ty Cổ phần Văn hóa và Truyền thông Liên Việt - Số 18 ngõ 81 Nguyễn Phong Sắc, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/16-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuyển tập tác phẩm",
+    "author": "Mikhail Bulgakov",
+    "translator": "Đoàn Tử Huyến",
+    "partner": "Công ty TNHH Văn hóa Đông Tây - Nhà N11A, Đơn Nguyên 3, Phường Cầu Giấy, TP Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/15-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mười tám câu chuyện ở thôn Thập Bát Động",
+    "author": "Lý Địch",
+    "translator": "Minh Thương",
+    "partner": "",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/14-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Không mùa",
+    "author": "Phan Thị Minh Hòa",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/13-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Nghìn lẻ một đêm",
+    "author": "Antoine Galland",
+    "translator": "Trường Minh - Giang Hà Vỵ",
+    "partner": "Công ty TNHH Văn hóa Minh Tân - Nhà sách Minh Thắng - 200 B3 Khu tập thể Tân Mai, Hoàng Mai, Hà Nội",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/12-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tuổi hồng ơi ta hát (Thơ, tập 2)",
+    "author": "Nguyễn Hữu Phúc",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/11-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Bạn đã làm rất tốt rồi 你已经做得很好了 Song ngữ Việt - Trung",
+    "author": "Nguyễn Việt Anh",
+    "translator": "Bùi Nhật Hùng",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông AZ Việt Nam - Người Trẻ Việt - Địa chỉ: Số 50 đường 5, TTF 361 An Dương, Phường Hồng Hà, Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/10-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Tháng năm có bà",
+    "author": "Tháng Giêng",
+    "translator": "",
+    "partner": "Công ty Cổ phần Sách điện tử Waka - Tầng 6, Tháp văn phòng quốc tế Hòa Bình, số 106, đường Hoàng Quốc Việt, phường Nghĩa Đô, Thành phố Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/9-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Khát vọng miền linh diệu (Thơ)",
+    "author": "Hồng Đà",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/8-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hồn thơ",
+    "author": "Lê Thị Ngọc Giao",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/7-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Đường thi mở lối",
+    "author": "Phạm Thị Là",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/6-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Hồn quê",
+    "author": "Nguyễn Thị Nguyệt",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/5-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Quả muộn",
+    "author": "Nguyễn Trác",
+    "translator": "",
+    "partner": "Tác giả",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/4-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Cần thở cần thơ",
+    "author": "Lê Hoài Việt",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Mây Thong Dongm - Địa chỉ: 34A Trần Quý Cáp, Phường Bình Lợi Trung, TP.Hồ Chí Minh",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/3-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Văn khấn cổ truyền Việt Nam",
+    "author": "Cao Hồng Minh (Tổng hợp), Đại đức Thích Đức Tiến (Hiệu đính)",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/2-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Văn khấn Nôm truyền thống",
+    "author": "Phạm Tuấn (Biên soạn)",
+    "translator": "",
+    "partner": "Công ty TNHH Văn hóa và Truyền thông Trí Việt - Đc: Số 112, ngõ 169 Tây Sơn, phường Kim Liên, Tp. Hà Nội.",
+    "nxb_code": "VH",
+    "publisher": "NXB VH",
+    "registration_number": "4428-2026/CXBTV/1-203/VH",
+    "is_manga": false
+  },
+  {
+    "title": "Mind map hack 3000 từ tiếng Anh theo chủ đề",
+    "author": "Huyền Windy- Cựu trưởng nhóm - Người sáng lập The Windy HitBooks",
+    "translator": "",
+    "partner": "Công ty Cổ phần sách và giáo dục Windy",
+    "nxb_code": "HĐ",
+    "publisher": "NXB HĐ",
+    "registration_number": "4427-2026/CXBTV/5-142/HĐ",
+    "is_manga": false
+  },
+  {
+    "title": "A LETTER OF REBIRTH Writing to Heal Yourself and Touch the Hearts of Others",
+    "author": "Lê Quý Nhân (Bút danh Nhân Trí)",
+    "translator": "",
+    "partner": "HỘ KINH DOANH HẠNH NGUYỄN WRITING COACH -Thôn Tịnh Sơn, xã Tam Mỹ, thành phố Đà Nẵng, Việt Nam",
+    "nxb_code": "HĐ",
+    "publisher": "NXB HĐ",
+    "registration_number": "4427-2026/CXBTV/4-142/HĐ",
+    "is_manga": false
+  },
+  {
+    "title": "Decoding Gen Z and Alpha: A Guide for ’70s and ’80s Parents Understanding – Loving – Connecting with Your Children (A book for parents losing connection with their children in the digital age)",
+    "author": "Lê Quý Nhân (Bút danh Nhân Trí)",
+    "translator": "",
+    "partner": "HỘ KINH DOANH HẠNH NGUYỄN WRITING COACH -Thôn Tịnh Sơn, xã Tam Mỹ, thành phố Đà Nẵng, Việt Nam",
+    "nxb_code": "HĐ",
+    "publisher": "NXB HĐ",
+    "registration_number": "4427-2026/CXBTV/3-142/HĐ",
+    "is_manga": false
+  },
+  {
+    "title": "PHONG NHA - KẺ BÀNG Vươn quốc trong lòng đất 400 TRIỆU NĂM KIẾN TẠO – MỘT KỲ QUAN ĐỂ CHIÊM NGƯỠNG, MỘT DI SẢN ĐỂ GÌN GIỮ. Khám phá • Thấu hiểu • Lan toả",
+    "author": "Lê Quý Nhân (Bút danh Nhân Trí)",
+    "translator": "",
+    "partner": "HỘ KINH DOANH HẠNH NGUYỄN WRITING COACH -Thôn Tịnh Sơn, xã Tam Mỹ, thành phố Đà Nẵng, Việt Nam",
+    "nxb_code": "HĐ",
+    "publisher": "NXB HĐ",
+    "registration_number": "4427-2026/CXBTV/2-142/HĐ",
+    "is_manga": false
+  },
+  {
+    "title": "PHONG NHA - KE BANG The Underground Kingdom 400 MILLION YEARS IN THE MAKING – A MARVEL TO BEHOLD, A LEGACY TO PROTECT. Discover • Comprehend • Share",
+    "author": "Lê Quý Nhân (Bút danh Nhân Trí)",
+    "translator": "",
+    "partner": "HỘ KINH DOANH HẠNH NGUYỄN WRITING COACH -Thôn Tịnh Sơn, xã Tam Mỹ, thành phố Đà Nẵng, Việt Nam",
+    "nxb_code": "HĐ",
+    "publisher": "NXB HĐ",
+    "registration_number": "4427-2026/CXBTV/1-142/HĐ",
+    "is_manga": false
   }
 ]
